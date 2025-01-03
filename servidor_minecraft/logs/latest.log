@@ -319,3 +319,69 @@ java.lang.NullPointerException: null
 [03Jan2025 21:04:36.801] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Disconnected
 [03Jan2025 21:04:36.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
 [03Jan2025 21:04:36.802] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[03Jan2025 21:13:30.455] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7b85dd85
+[03Jan2025 21:13:30.467] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:41269] logged in with entity id 17492 at (-511.2481159265053, 90.0, 58.289063670454624)
+[03Jan2025 21:13:30.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[03Jan2025 21:13:35.749] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[03Jan2025 21:13:35.750] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 21:14:06.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 21:14:07.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 21:14:07.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 21:14:18.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 21:14:18.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 21:14:18.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 21:14:18.639] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 21:14:19.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 21:14:19.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 21:14:36.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Survival Mode]
+[03Jan2025 21:14:42.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 21:14:42.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 21:14:42.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 21:14:46.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 21:14:50.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> geniall
+[03Jan2025 21:14:57.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> qpso
+[03Jan2025 21:15:12.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> el enchufe de mierda
+[03Jan2025 21:15:22.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> y pq te pasa eso
+[03Jan2025 21:15:33.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> Ni idea
+[03Jan2025 21:15:39.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> lag quizas?
+[03Jan2025 21:15:52.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> ni idea
+[03Jan2025 21:15:53.749] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Disconnected
+[03Jan2025 21:15:53.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[03Jan2025 21:15:53.749] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[03Jan2025 21:16:14.607] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@49ea07ee
+[03Jan2025 21:16:14.617] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:51297] logged in with entity id 17769 at (-512.0912435047851, 90.0, 57.66665761430321)
+[03Jan2025 21:16:14.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[03Jan2025 21:16:16.831] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[03Jan2025 21:16:16.832] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 21:17:22.251] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Disconnected
+[03Jan2025 21:17:22.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[03Jan2025 21:17:22.252] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[03Jan2025 21:17:39.904] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5c5c3157
+[03Jan2025 21:17:39.918] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:35745] logged in with entity id 17900 at (-511.74217713789466, 90.0, 57.91005388292386)
+[03Jan2025 21:17:39.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[03Jan2025 21:17:40.720] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[03Jan2025 21:17:40.720] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 21:18:03.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> reinicio el server?
+[03Jan2025 21:18:07.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> me sigue saliendo
+[03Jan2025 21:18:12.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> a ti te aparece?
+[03Jan2025 21:18:12.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> mejor
+[03Jan2025 21:18:19.748] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Disconnected
+[03Jan2025 21:18:19.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[03Jan2025 21:18:19.749] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[03Jan2025 21:18:21.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> a mi no
+[03Jan2025 21:18:24.799] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 lost connection: Disconnected
+[03Jan2025 21:18:24.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 left the game
+[03Jan2025 21:18:24.800] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
+[03Jan2025 21:18:32.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[03Jan2025 21:18:33.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Jan2025 21:18:33.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Jan2025 21:18:33.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Jan2025 21:18:33.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Jan2025 21:18:33.109] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jan2025 21:18:33.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Jan2025 21:18:33.110] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jan2025 21:18:33.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Jan2025 21:18:33.110] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Jan2025 21:18:33.134] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jan2025 21:18:33.162] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jan2025 21:18:33.162] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
