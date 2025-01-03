@@ -98,3 +98,12 @@ java.lang.NullPointerException: null
 [03Jan2025 18:06:25.465] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Luismt150
 [03Jan2025 18:17:36.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 has made the advancement [Knowledge of Death]
 [03Jan2025 18:17:36.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 has made the advancement [Easter Food]
+[03Jan2025 18:26:27.968] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ee3d7fc
+[03Jan2025 18:26:27.994] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:49987] logged in with entity id 2967 at (-39.624631222496056, 63.0, 4.449433823544691)
+[03Jan2025 18:26:28.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[03Jan2025 18:26:35.825] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[03Jan2025 18:26:35.826] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 18:29:28.402] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
+[03Jan2025 18:29:28.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[03Jan2025 18:29:28.406] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[03Jan2025 18:29:28.452] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
