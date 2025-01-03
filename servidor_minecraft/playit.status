@@ -1,426 +1,363 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735929834712 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735939179588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929837962 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929841039 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929844114 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929847177 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929850518 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929853579 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929856666 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929859723 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929862807 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929865869 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929868925 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939182670 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929871996 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929875065 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939185793 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929878123 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939188851 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929881189 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939191911 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929884245 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939194994 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929887296 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939198296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929890351 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939201400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929893454 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939204468 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929896515 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939207679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929899568 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939210791 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929902653 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939214169 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929905724 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939217769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929908785 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939220839 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929911851 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939223900 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929915038 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939226968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929918104 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939230034 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929921177 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939233097 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929924243 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939236449 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929927307 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939239505 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929930372 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939242589 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929933438 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939245753 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929936503 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939248808 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929939562 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939251870 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929942638 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939255036 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929945700 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939258104 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929948764 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939261196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929951828 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939264277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929954960 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939267348 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929958194 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939270681 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929961265 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939273753 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929964442 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939276837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929967503 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939279914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929970571 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939283010 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929973638 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939286561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929976703 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939289628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929979772 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939292705 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929983068 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939295826 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929986133 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939298883 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929989201 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939301940 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929992391 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939305016 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929995464 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939308090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735929998547 tunnel running, 2 tunnels registered
+risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:3709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735939311332 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930001623 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939314391 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930004697 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939317456 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930007779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939320878 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930010981 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939323936 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930014040 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939327261 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930017351 tunnel running, 2 tunnels registered
+tunnel pending: https://playit.gg/account/tunnels/e8581858-8e43-4508-a63b-ea99ea8dbc8d
+[2J8[0mplayit (v0.15.26): 1735939330727 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930020489 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939333786 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930023564 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939337047 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930026643 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939340208 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930029704 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939343462 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930032912 tunnel running, 2 tunnels registered
+tunnel pending: https://playit.gg/account/tunnels/ab8adf37-7dd9-4825-bb7e-3eeec03bc932
+[2J8[0mplayit (v0.15.26): 1735939346573 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930036239 tunnel running, 2 tunnels registered
+tunnel pending: https://playit.gg/account/tunnels/ab8adf37-7dd9-4825-bb7e-3eeec03bc932
+[2J8[0mplayit (v0.15.26): 1735939349663 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+supplies-euro.gl.at.ply.gg:3725 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930039316 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939352727 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+supplies-euro.gl.at.ply.gg:3725 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930042378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939355840 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+supplies-euro.gl.at.ply.gg:3725 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930045452 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939358899 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+supplies-euro.gl.at.ply.gg:3725 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930048526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939361960 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+supplies-euro.gl.at.ply.gg:3725 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735930051587 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735939365068 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 cameras-amongst.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+supplies-euro.gl.at.ply.gg:3725 => 127.0.0.1:25565 (proto: Udp, port count: 1)
 risk-handbook.gl.at.ply.gg:3709 => 127.0.0.1:25565 (proto: Udp, port count: 1)
