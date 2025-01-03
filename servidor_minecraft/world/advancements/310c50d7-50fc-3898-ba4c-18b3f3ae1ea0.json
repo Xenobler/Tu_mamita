@@ -1087,6 +1087,7 @@
       "minecraft:dark_forest": "2025-01-01 22:56:54 +0000",
       "minecraft:river": "2025-01-01 22:54:11 +0000",
       "minecraft:wooded_mountains": "2025-01-01 23:06:16 +0000",
+      "minecraft:wooded_hills": "2025-01-03 19:10:10 +0000",
       "minecraft:swamp": "2025-01-02 23:26:59 +0000",
       "minecraft:savanna": "2025-01-02 23:02:40 +0000",
       "minecraft:plains": "2025-01-01 22:54:22 +0000"
@@ -1643,6 +1644,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 19:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-01-01 22:56:52 +0000"
@@ -1775,6 +1782,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 19:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-01 22:47:55 +0000"
@@ -1826,6 +1839,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-01-02 23:21:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 19:12:13 +0000"
     },
     "done": true
   },
@@ -1976,6 +1995,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-01 23:54:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 19:12:13 +0000"
     },
     "done": true
   },

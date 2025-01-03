@@ -2105,3 +2105,67 @@ java.lang.NullPointerException: null
 [03Jan2025 19:05:38.010] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of HaruGlan to connected: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=null}
 [03Jan2025 19:05:38.010] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
 [03Jan2025 19:05:38.142] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=null}
+[03Jan2025 19:07:45.298] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:07:45.314] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 19:08:23.575] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=null}
+[03Jan2025 19:08:24.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 19:08:24.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 19:08:24.496] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to HaruGlan
+[03Jan2025 19:08:24.496] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with HaruGlan
+[03Jan2025 19:08:24.496] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with HaruGlan
+[03Jan2025 19:08:24.496] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:08:24.496] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 to disconnected: {disabled=false, disconnected=true, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=null}
+[03Jan2025 19:08:25.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:08:26.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:08:26.100] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of HaruGlan to connected: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=null}
+[03Jan2025 19:08:26.100] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 19:08:26.241] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=null}
+[03Jan2025 19:09:27.848] [Worker-Main-22/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[03Jan2025 19:09:27.853] [Worker-Main-22/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[03Jan2025 19:10:27.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[03Jan2025 19:10:27.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: o HaruGlan<--[HERE]
+[03Jan2025 19:10:38.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made HaruGlan a server operator
+[03Jan2025 19:11:38.812] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Luismt150: {disabled=true, disconnected=false, uuid=98144b4f-a83b-3243-8a17-0cfafd4b2524, name=Luismt150, group=null}
+[03Jan2025 19:11:42.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> encontre arboles de dinamyc tree
+[03Jan2025 19:11:49.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> vamooooo
+[03Jan2025 19:11:57.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> unete a un canal
+[03Jan2025 19:12:09.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> estuve hablando solo como los wnes
+[03Jan2025 19:12:13.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [Knowledge of Death]
+[03Jan2025 19:12:13.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [Easter Food]
+[03Jan2025 19:12:15.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> AKJDHKAJHDKAJLHDL
+[03Jan2025 19:12:18.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> xd
+[03Jan2025 19:12:24.261] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Luismt150: {disabled=false, disconnected=false, uuid=98144b4f-a83b-3243-8a17-0cfafd4b2524, name=Luismt150, group=null}
+[03Jan2025 19:12:45.755] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:12:45.761] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 19:12:53.571] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=80bcd6b5-906e-439c-8a21-471cd858cfdd}
+[03Jan2025 19:12:58.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> entra en el grupo
+[03Jan2025 19:13:01.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> con la g
+[03Jan2025 19:13:03.764] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Luismt150: {disabled=false, disconnected=false, uuid=98144b4f-a83b-3243-8a17-0cfafd4b2524, name=Luismt150, group=80bcd6b5-906e-439c-8a21-471cd858cfdd}
+[03Jan2025 19:13:33.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> se me escucha?
+[03Jan2025 19:13:33.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> SI TE ESCUCHO
+[03Jan2025 19:13:41.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> porque no hablas qnq
+[03Jan2025 19:13:53.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> estoy hablando
+[03Jan2025 19:14:00.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> no te escucho
+[03Jan2025 19:14:02.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> mira el coso del minecraft
+[03Jan2025 19:14:24.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 19:14:24.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 19:14:24.565] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to HaruGlan
+[03Jan2025 19:14:24.565] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with HaruGlan
+[03Jan2025 19:14:24.565] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with HaruGlan
+[03Jan2025 19:14:24.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:14:24.565] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 to disconnected: {disabled=false, disconnected=true, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=80bcd6b5-906e-439c-8a21-471cd858cfdd}
+[03Jan2025 19:14:25.337] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55963
+[03Jan2025 19:14:25.338] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55963
+[03Jan2025 19:14:25.338] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55963
+[03Jan2025 19:14:34.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan is bleeding...
+[03Jan2025 19:14:34.150] [Server thread/WARN] [tombstone/]: The death event of the player HaruGlan was canceled by another mod
+[03Jan2025 19:14:34.157] [Server thread/INFO] [tombstone/]: The player HaruGlan has successfully been saved
+[03Jan2025 19:15:17.195] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
+[03Jan2025 19:15:17.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[03Jan2025 19:15:17.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has reached the goal [Strong or Careful]
+[03Jan2025 19:15:17.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan was slain by Zombie
+[03Jan2025 19:15:17.207] [Server thread/DEBUG] [tombstone/]: A new grave of the player HaruGlan was created at position [x:-218, y:76, z:-434, dim:minecraft:overworld]
+[03Jan2025 19:15:17.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [Your First Grave]
+[03Jan2025 19:15:17.212] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of HaruGlan
+[03Jan2025 19:15:17.213] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[03Jan2025 19:15:17.279] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice

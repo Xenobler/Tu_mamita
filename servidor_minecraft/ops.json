@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "310c50d7-50fc-3898-ba4c-18b3f3ae1ea0",
+    "name": "HaruGlan",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

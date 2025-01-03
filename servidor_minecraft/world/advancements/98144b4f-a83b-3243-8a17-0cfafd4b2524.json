@@ -1556,6 +1556,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 19:09:11 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/red_sandstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 18:06:24 +0000"
