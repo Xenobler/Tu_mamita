@@ -5155,3 +5155,6 @@ Missing minecraft:entity_type:
 [03Jan2025 02:50:16.938] [Server thread/INFO] [Astral Sorcery/]: Loaded PerkTree!
 [03Jan2025 02:50:16.940] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [03Jan2025 02:50:16.985] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[03Jan2025 03:06:43.077] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [securitycraft:securitycraft] rejected their client side version number
+[03Jan2025 03:06:43.078] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 03:06:43.126] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@ea71b58[id=<null>,name=Luismt150,properties={},legacy=false] (/127.27.20.141:37171) lost connection: Connection closed - mismatched mod channel list
