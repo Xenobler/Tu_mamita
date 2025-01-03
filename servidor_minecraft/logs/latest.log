@@ -107,3 +107,27 @@ java.lang.NullPointerException: null
 [03Jan2025 18:29:28.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
 [03Jan2025 18:29:28.406] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
 [03Jan2025 18:29:28.452] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[03Jan2025 18:30:51.762] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6c172e8e
+[03Jan2025 18:30:51.781] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:34889] logged in with entity id 3479 at (-52.44719192942584, 63.0, 2.33944350649948)
+[03Jan2025 18:30:51.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[03Jan2025 18:30:53.713] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[03Jan2025 18:30:53.714] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 18:39:24.803] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Disconnected
+[03Jan2025 18:39:24.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[03Jan2025 18:39:24.804] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[03Jan2025 18:39:26.899] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 lost connection: Disconnected
+[03Jan2025 18:39:26.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 left the game
+[03Jan2025 18:39:26.901] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
+[03Jan2025 18:39:36.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[03Jan2025 18:39:36.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Jan2025 18:39:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Jan2025 18:39:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Jan2025 18:39:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Jan2025 18:39:37.274] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jan2025 18:39:37.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Jan2025 18:39:37.276] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jan2025 18:39:37.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Jan2025 18:39:37.276] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Jan2025 18:39:37.305] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jan2025 18:39:37.313] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jan2025 18:39:37.313] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
