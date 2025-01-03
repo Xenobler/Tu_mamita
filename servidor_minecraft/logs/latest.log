@@ -1,133 +1,112 @@
-[03Jan2025 18:00:07.041] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[03Jan2025 18:00:07.044] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[03Jan2025 18:00:07.379] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[03Jan2025 18:00:07.449] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Tu_mamita/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[03Jan2025 18:00:08.096] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[03Jan2025 18:00:08.187] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[03Jan2025 18:00:08.194] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[03Jan2025 18:00:08.200] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[03Jan2025 18:00:08.205] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[03Jan2025 18:00:08.210] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[03Jan2025 18:00:08.214] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[03Jan2025 18:00:09.200] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [hellfirepvp.astralsorcery.MixinConnector]
-[03Jan2025 18:00:09.204] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[03Jan2025 18:00:09.646] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
-[03Jan2025 18:00:09.751] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
-[03Jan2025 18:00:09.883] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
-[03Jan2025 18:00:09.941] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
-[03Jan2025 18:00:11.106] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
-[03Jan2025 18:00:11.110] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
-[03Jan2025 18:00:15.689] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03Jan2025 18:00:15.689] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03Jan2025 18:00:16.202] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[03Jan2025 18:00:16.234] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[03Jan2025 18:00:23.041] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[03Jan2025 18:00:23.148] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[03Jan2025 18:00:23.440] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
-[03Jan2025 18:00:23.455] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
-[03Jan2025 18:00:23.535] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Loading plugins
-[03Jan2025 18:00:23.553] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[03Jan2025 18:00:23.553] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Initializing plugins
-[03Jan2025 18:00:23.554] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[03Jan2025 18:00:23.836] [AstralSorcery Patreon Effect Loader/WARN] [Astral Sorcery/]: Skipped 1 patreon effects during loading due to malformed data!
-[03Jan2025 18:00:23.837] [AstralSorcery Patreon Effect Loader/INFO] [Astral Sorcery/]: Patreon effect loading finished.
-[03Jan2025 18:00:23.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 3.0.1 Target: null
-[03Jan2025 18:00:23.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[03Jan2025 18:00:24.369] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[03Jan2025 18:43:51.907] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[03Jan2025 18:43:51.909] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[03Jan2025 18:43:52.210] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[03Jan2025 18:43:52.273] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Tu_mamita/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[03Jan2025 18:43:52.857] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[03Jan2025 18:43:52.959] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[03Jan2025 18:43:52.966] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[03Jan2025 18:43:52.973] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[03Jan2025 18:43:52.978] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[03Jan2025 18:43:52.984] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[03Jan2025 18:43:52.990] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[03Jan2025 18:43:54.211] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [hellfirepvp.astralsorcery.MixinConnector]
+[03Jan2025 18:43:54.215] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[03Jan2025 18:43:54.930] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[03Jan2025 18:43:55.068] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[03Jan2025 18:43:55.333] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[03Jan2025 18:43:55.399] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[03Jan2025 18:43:56.246] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[03Jan2025 18:43:56.249] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[03Jan2025 18:44:01.186] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[03Jan2025 18:44:01.187] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[03Jan2025 18:44:01.949] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[03Jan2025 18:44:01.952] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[03Jan2025 18:44:09.272] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[03Jan2025 18:44:09.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[03Jan2025 18:44:09.459] [modloading-worker-3/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[03Jan2025 18:44:09.526] [modloading-worker-3/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[03Jan2025 18:44:09.628] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Loading plugins
+[03Jan2025 18:44:09.656] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[03Jan2025 18:44:09.656] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Initializing plugins
+[03Jan2025 18:44:09.656] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[03Jan2025 18:44:09.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 3.0.1 Target: null
+[03Jan2025 18:44:09.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[03Jan2025 18:44:09.912] [AstralSorcery Patreon Effect Loader/WARN] [Astral Sorcery/]: Skipped 1 patreon effects during loading due to malformed data!
+[03Jan2025 18:44:09.914] [AstralSorcery Patreon Effect Loader/INFO] [Astral Sorcery/]: Patreon effect loading finished.
+[03Jan2025 18:44:10.432] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[03Jan2025 18:00:24.370] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[03Jan2025 18:00:24.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
-[03Jan2025 18:00:24.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
-[03Jan2025 18:00:24.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.1 Target: null
-[03Jan2025 18:00:24.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[03Jan2025 18:00:24.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
-[03Jan2025 18:00:24.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[03Jan2025 18:00:24.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[03Jan2025 18:00:24.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Jan2025 18:00:24.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[03Jan2025 18:00:24.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[03Jan2025 18:00:24.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: UP_TO_DATE Current: 1.16.5-0.10.5 Target: null
-[03Jan2025 18:00:24.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[03Jan2025 18:00:24.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12 Target: null
-[03Jan2025 18:00:29.797] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03Jan2025 18:00:30.703] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03Jan2025 18:00:30.705] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03Jan2025 18:00:30.707] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03Jan2025 18:00:30.709] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03Jan2025 18:00:30.712] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03Jan2025 18:00:30.715] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03Jan2025 18:00:30.722] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, mcw-bridges-3.0.1-mc1.16.5forge.jar, mcw-doors-1.1.1forge-mc1.16.5.jar, voicechat-forge-1.16.5-2.5.27.jar, tombstone-1.16.5-6.9.6.jar, astralsorcery-1.16.5-1.14.1.jar, mcw-roofs-2.3.1-mc1.16.5forge.jar, CreativeCore_v2.2.1_mc1.16.5.jar, observerlib-1.16.5-1.5.3.jar, mcw-furniture-3.3.0-mc1.16.5forge.jar, curios-forge-1.16.5-4.1.0.0.jar, DynamicTrees-1.16.5-0.10.5.jar, PlayerRevive_v2.0.0-pre04_mc1.16.5.jar, [1.16.5] SecurityCraft v1.9.12.jar
-[03Jan2025 18:00:33.037] [Worker-Main-5/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load block tag minecraft:combination_step_sound_blocks as it is missing following references: #minecraft:wool_carpets (from Default),minecraft:moss_carpet (from Default),#minecraft:wool_carpets (from mcw-bridges-3.0.1-mc1.16.5forge.jar),minecraft:moss_carpet (from mcw-bridges-3.0.1-mc1.16.5forge.jar)
-[03Jan2025 18:00:33.260] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 12 recipes
-[03Jan2025 18:00:33.302] [Worker-Main-5/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on assets/astralsorcery/astralsorcery.mixins.json:MixinItemPredicate::handler$zbo000$enhanceEnchantmentList exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[03Jan2025 18:00:34.687] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1857 advancements
-[03Jan2025 18:00:34.770] [Worker-Main-5/INFO] [Astral Sorcery/]: Built PerkTree with 417 perks!
-[03Jan2025 18:00:40.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[03Jan2025 18:00:40.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03Jan2025 18:00:40.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03Jan2025 18:00:40.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03Jan2025 18:00:41.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03Jan2025 18:00:41.241] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[03Jan2025 18:00:41.439] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03Jan2025 18:00:41.439] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03Jan2025 18:00:41.440] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03Jan2025 18:00:41.440] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03Jan2025 18:00:41.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03Jan2025 18:00:42.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03Jan2025 18:00:44.387] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[03Jan2025 18:00:44.388] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[03Jan2025 18:00:44.389] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[03Jan2025 18:00:44.389] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[03Jan2025 18:00:44.666] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[03Jan2025 18:00:44.977] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[03Jan2025 18:00:45.252] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2775 ms
-[03Jan2025 18:00:45.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.771s)! For help, type "help"
-[03Jan2025 18:00:45.391] [Server thread/INFO] [Astral Sorcery/]: Loaded PerkTree!
-[03Jan2025 18:00:45.393] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[03Jan2025 18:00:45.456] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[03Jan2025 18:06:24.070] [Server thread/WARN] [net.minecraft.stats.ServerStatisticsManager/]: Invalid statistic in ./world/stats/98144b4f-a83b-3243-8a17-0cfafd4b2524.json: Don't know what gravestone:death_info is
-[03Jan2025 18:06:24.115] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@13499cff
-[03Jan2025 18:06:24.142] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Luismt150[/127.27.20.141:50025] logged in with entity id 255 at (-63.316608420858564, 63.0, 16.100222895337566)
-[03Jan2025 18:06:24.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 joined the game
-[03Jan2025 18:06:24.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 has made the advancement [Easter Egg Searcher]
-[03Jan2025 18:06:25.463] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Luismt150 (18)
-[03Jan2025 18:06:25.465] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Luismt150
-[03Jan2025 18:17:36.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 has made the advancement [Knowledge of Death]
-[03Jan2025 18:17:36.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 has made the advancement [Easter Food]
-[03Jan2025 18:26:27.968] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ee3d7fc
-[03Jan2025 18:26:27.994] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:49987] logged in with entity id 2967 at (-39.624631222496056, 63.0, 4.449433823544691)
-[03Jan2025 18:26:28.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
-[03Jan2025 18:26:35.825] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
-[03Jan2025 18:26:35.826] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[03Jan2025 18:29:28.402] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
-[03Jan2025 18:29:28.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
-[03Jan2025 18:29:28.406] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
-[03Jan2025 18:29:28.452] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[03Jan2025 18:30:51.762] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6c172e8e
-[03Jan2025 18:30:51.781] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:34889] logged in with entity id 3479 at (-52.44719192942584, 63.0, 2.33944350649948)
-[03Jan2025 18:30:51.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
-[03Jan2025 18:30:53.713] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
-[03Jan2025 18:30:53.714] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[03Jan2025 18:39:24.803] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Disconnected
-[03Jan2025 18:39:24.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
-[03Jan2025 18:39:24.804] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
-[03Jan2025 18:39:26.899] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 lost connection: Disconnected
-[03Jan2025 18:39:26.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 left the game
-[03Jan2025 18:39:26.901] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
-[03Jan2025 18:39:36.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[03Jan2025 18:39:36.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[03Jan2025 18:39:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[03Jan2025 18:39:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[03Jan2025 18:39:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03Jan2025 18:39:37.274] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03Jan2025 18:39:37.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03Jan2025 18:39:37.276] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03Jan2025 18:39:37.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03Jan2025 18:39:37.276] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03Jan2025 18:39:37.305] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03Jan2025 18:39:37.313] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03Jan2025 18:39:37.313] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Jan2025 18:44:10.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[03Jan2025 18:44:10.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
+[03Jan2025 18:44:10.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
+[03Jan2025 18:44:10.459] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.1 Target: null
+[03Jan2025 18:44:10.459] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[03Jan2025 18:44:10.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
+[03Jan2025 18:44:10.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[03Jan2025 18:44:10.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[03Jan2025 18:44:10.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Jan2025 18:44:10.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[03Jan2025 18:44:10.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[03Jan2025 18:44:10.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: UP_TO_DATE Current: 1.16.5-0.10.5 Target: null
+[03Jan2025 18:44:10.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[03Jan2025 18:44:11.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12 Target: null
+[03Jan2025 18:44:15.602] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Jan2025 18:44:16.740] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03Jan2025 18:44:16.742] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Jan2025 18:44:16.748] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Jan2025 18:44:16.750] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03Jan2025 18:44:16.751] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Jan2025 18:44:16.756] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03Jan2025 18:44:16.766] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, mcw-bridges-3.0.1-mc1.16.5forge.jar, mcw-doors-1.1.1forge-mc1.16.5.jar, voicechat-forge-1.16.5-2.5.27.jar, tombstone-1.16.5-6.9.6.jar, astralsorcery-1.16.5-1.14.1.jar, mcw-roofs-2.3.1-mc1.16.5forge.jar, CreativeCore_v2.2.1_mc1.16.5.jar, observerlib-1.16.5-1.5.3.jar, mcw-furniture-3.3.0-mc1.16.5forge.jar, curios-forge-1.16.5-4.1.0.0.jar, DynamicTrees-1.16.5-0.10.5.jar, PlayerRevive_v2.0.0-pre04_mc1.16.5.jar, [1.16.5] SecurityCraft v1.9.12.jar
+[03Jan2025 18:44:18.991] [Worker-Main-5/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load block tag minecraft:combination_step_sound_blocks as it is missing following references: #minecraft:wool_carpets (from Default),minecraft:moss_carpet (from Default),#minecraft:wool_carpets (from mcw-bridges-3.0.1-mc1.16.5forge.jar),minecraft:moss_carpet (from mcw-bridges-3.0.1-mc1.16.5forge.jar)
+[03Jan2025 18:44:19.255] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 12 recipes
+[03Jan2025 18:44:19.347] [Worker-Main-5/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on assets/astralsorcery/astralsorcery.mixins.json:MixinItemPredicate::handler$zbo000$enhanceEnchantmentList exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[03Jan2025 18:44:20.865] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1857 advancements
+[03Jan2025 18:44:20.923] [Worker-Main-5/INFO] [Astral Sorcery/]: Built PerkTree with 417 perks!
+[03Jan2025 18:44:27.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[03Jan2025 18:44:27.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Jan2025 18:44:27.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Jan2025 18:44:27.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Jan2025 18:44:27.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Jan2025 18:44:27.675] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[03Jan2025 18:44:27.852] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Jan2025 18:44:27.853] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Jan2025 18:44:27.853] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Jan2025 18:44:27.853] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Jan2025 18:44:28.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Jan2025 18:44:28.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Jan2025 18:44:30.254] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[03Jan2025 18:44:30.254] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[03Jan2025 18:44:30.255] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[03Jan2025 18:44:30.291] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[03Jan2025 18:44:30.882] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
+[03Jan2025 18:44:31.049] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2259 ms
+[03Jan2025 18:44:31.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.184s)! For help, type "help"
+[03Jan2025 18:44:31.212] [Server thread/INFO] [Astral Sorcery/]: Loaded PerkTree!
+[03Jan2025 18:44:31.214] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[03Jan2025 18:44:31.252] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'risk-handbook.gl.at.ply.gg:25565'
+[03Jan2025 18:44:31.257] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[03Jan2025 18:45:04.220] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@55a38c56
+[03Jan2025 18:45:04.258] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Luismt150[/127.27.20.141:42557] logged in with entity id 238 at (-58.470205868256436, 64.0, 2.3101743593347983)
+[03Jan2025 18:45:04.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 joined the game
+[03Jan2025 18:45:04.704] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Luismt150 (18)
+[03Jan2025 18:45:04.708] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Luismt150
+[03Jan2025 18:46:32.961] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 lost connection: Disconnected
+[03Jan2025 18:46:32.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 left the game
+[03Jan2025 18:46:32.965] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
+[03Jan2025 18:47:20.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[03Jan2025 18:47:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Jan2025 18:47:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Jan2025 18:47:20.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Jan2025 18:47:20.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Jan2025 18:47:21.937] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jan2025 18:47:21.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Jan2025 18:47:21.939] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jan2025 18:47:21.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Jan2025 18:47:21.940] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Jan2025 18:47:21.967] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jan2025 18:47:21.970] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jan2025 18:47:21.971] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
