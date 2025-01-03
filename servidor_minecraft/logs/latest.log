@@ -188,3 +188,43 @@ java.lang.NullPointerException: null
 [03Jan2025 19:33:59.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
 [03Jan2025 19:34:02.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [Knowledge raises the soul]
 [03Jan2025 19:35:17.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has reached the goal [Die Classy]
+[03Jan2025 19:38:48.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 19:38:48.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 19:38:48.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:38:55.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:38:56.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:38:56.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 19:39:23.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 19:39:23.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 19:39:23.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:39:23.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:39:24.998] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:39:24.998] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 19:39:51.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 19:39:51.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 19:39:51.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:39:52.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:39:53.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:39:53.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 19:40:25.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the time to 1000]
+[03Jan2025 19:40:59.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Creative Mode]
+[03Jan2025 19:41:42.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Survival Mode]
+[03Jan2025 19:42:39.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 19:42:39.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 19:42:39.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:42:43.844] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.861] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.861] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.862] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.897] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.898] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.898] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.899] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:44.000] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:44.001] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:47.545] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:42:48.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:42:48.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 19:43:19.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [Ice Bucket Challenge]
+[03Jan2025 19:43:33.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Creative Mode]
+[03Jan2025 19:45:23.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Survival Mode]

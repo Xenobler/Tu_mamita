@@ -2662,3 +2662,107 @@ java.lang.NullPointerException: null
 [03Jan2025 19:33:59.695] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
 [03Jan2025 19:34:02.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [Knowledge raises the soul]
 [03Jan2025 19:35:17.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has reached the goal [Die Classy]
+[03Jan2025 19:37:45.879] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:37:45.885] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 19:38:48.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 19:38:48.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 19:38:48.396] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to HaruGlan
+[03Jan2025 19:38:48.396] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with HaruGlan
+[03Jan2025 19:38:48.396] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with HaruGlan
+[03Jan2025 19:38:48.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:38:48.397] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 to disconnected: {disabled=false, disconnected=true, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:38:53.308] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.309] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.309] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.309] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.310] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.310] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.311] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.312] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.312] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.326] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.345] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.358] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.367] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.385] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.405] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.425] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.456] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.463] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.492] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.506] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.526] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.546] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.566] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.586] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.605] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.626] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.645] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.666] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.690] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.727] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:53.728] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=true, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:38:54.936] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:34221
+[03Jan2025 19:38:55.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:38:56.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:38:56.634] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of HaruGlan to connected: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:38:56.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 19:38:56.778] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:39:22.709] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:39:23.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 19:39:23.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 19:39:23.637] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to HaruGlan
+[03Jan2025 19:39:23.637] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with HaruGlan
+[03Jan2025 19:39:23.637] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with HaruGlan
+[03Jan2025 19:39:23.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:39:23.638] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 to disconnected: {disabled=false, disconnected=true, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:39:23.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:39:24.998] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:39:24.998] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of HaruGlan to connected: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:39:24.998] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 19:39:25.160] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:39:50.871] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:39:51.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 19:39:51.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 19:39:51.823] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to HaruGlan
+[03Jan2025 19:39:51.823] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with HaruGlan
+[03Jan2025 19:39:51.823] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with HaruGlan
+[03Jan2025 19:39:51.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:39:51.824] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 to disconnected: {disabled=false, disconnected=true, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:39:52.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:39:53.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:39:53.592] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of HaruGlan to connected: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:39:53.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 19:39:53.728] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:40:25.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the time to 1000]
+[03Jan2025 19:40:59.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Creative Mode]
+[03Jan2025 19:41:42.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Survival Mode]
+[03Jan2025 19:42:38.875] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:42:39.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 19:42:39.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 19:42:39.803] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to HaruGlan
+[03Jan2025 19:42:39.803] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with HaruGlan
+[03Jan2025 19:42:39.803] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with HaruGlan
+[03Jan2025 19:42:39.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:42:39.803] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 to disconnected: {disabled=false, disconnected=true, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:42:43.844] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.861] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.861] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.862] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.897] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.898] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.898] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:43.899] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:44.000] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:44.001] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 1.8428830334513577
+[03Jan2025 19:42:44.371] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=true, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:42:45.806] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:42:45.812] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 19:42:47.545] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:42:48.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:42:48.561] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of HaruGlan to connected: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:42:48.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 19:42:48.710] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=bf3892f8-e3b9-4421-8e96-827ae8c6fc53}
+[03Jan2025 19:43:19.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [Ice Bucket Challenge]
+[03Jan2025 19:43:33.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Creative Mode]
+[03Jan2025 19:45:23.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Survival Mode]
