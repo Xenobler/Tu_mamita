@@ -1199,12 +1199,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-01-03 19:43:08 +0000",
       "minecraft:forest": "2025-01-01 22:55:34 +0000",
       "minecraft:mountains": "2025-01-01 22:59:37 +0000",
       "minecraft:taiga": "2025-01-01 22:30:11 +0000",
       "minecraft:giant_tree_taiga": "2025-01-03 19:25:25 +0000",
       "minecraft:taiga_hills": "2025-01-01 22:29:45 +0000",
       "minecraft:desert": "2025-01-02 23:03:04 +0000",
+      "minecraft:beach": "2025-01-03 19:43:09 +0000",
       "minecraft:dark_forest": "2025-01-01 22:56:54 +0000",
       "minecraft:river": "2025-01-01 22:54:11 +0000",
       "minecraft:wooded_mountains": "2025-01-01 23:06:16 +0000",
@@ -2084,6 +2086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-03 19:43:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-01 23:51:51 +0000"
@@ -2444,15 +2452,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv4": {
-    "criteria": {
-      "has_iron": "2025-01-03 19:39:53 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2025-01-03 19:29:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-01-03 19:39:53 +0000"
     },
     "done": true
   },
@@ -2702,6 +2710,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-03 19:43:19 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
@@ -2934,7 +2948,8 @@
     "criteria": {
       "textures/entity/cat/tabby.png": "2025-01-02 23:10:54 +0000",
       "textures/entity/cat/white.png": "2025-01-03 19:41:13 +0000",
-      "textures/entity/cat/persian.png": "2025-01-03 19:41:21 +0000"
+      "textures/entity/cat/persian.png": "2025-01-03 19:41:21 +0000",
+      "textures/entity/cat/red.png": "2025-01-03 19:43:42 +0000"
     },
     "done": false
   },
