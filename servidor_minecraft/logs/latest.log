@@ -157,3 +157,13 @@ java.lang.NullPointerException: null
 [03Jan2025 19:15:17.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [Your First Grave]
 [03Jan2025 19:15:17.213] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
 [03Jan2025 19:15:17.279] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[03Jan2025 19:22:04.149] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71b8391
+[03Jan2025 19:22:04.161] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:52309] logged in with entity id 4207 at (-217.1240898761804, 76.0, -433.2684076664443)
+[03Jan2025 19:22:04.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[03Jan2025 19:22:17.577] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[03Jan2025 19:22:17.577] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:22:48.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:22:49.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:22:49.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 19:22:58.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has reached the goal [Easy Opening]
+[03Jan2025 19:24:13.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> crea tu el grupo
