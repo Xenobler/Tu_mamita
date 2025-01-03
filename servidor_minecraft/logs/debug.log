@@ -1868,3 +1868,9 @@ java.lang.NullPointerException: null
 [03Jan2025 18:06:25.464] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Luismt150
 [03Jan2025 18:06:25.464] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Luismt150
 [03Jan2025 18:06:25.465] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Luismt150
+[03Jan2025 18:10:45.700] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:10:45.707] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 18:15:45.583] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:15:45.590] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 18:17:36.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 has made the advancement [Knowledge of Death]
+[03Jan2025 18:17:36.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 has made the advancement [Easter Food]
