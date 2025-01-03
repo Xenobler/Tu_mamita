@@ -167,3 +167,24 @@ java.lang.NullPointerException: null
 [03Jan2025 19:22:49.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
 [03Jan2025 19:22:58.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has reached the goal [Easy Opening]
 [03Jan2025 19:24:13.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> crea tu el grupo
+[03Jan2025 19:29:49.197] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 lost connection: Disconnected
+[03Jan2025 19:29:49.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 left the game
+[03Jan2025 19:29:49.198] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
+[03Jan2025 19:30:01.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the time to 1000]
+[03Jan2025 19:31:15.447] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@304469d9[id=<null>,name=Luismt150,properties={},legacy=false] (/127.27.20.141:36905) lost connection: Disconnected
+[03Jan2025 19:31:19.601] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7e4a10d2
+[03Jan2025 19:31:19.611] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Luismt150[/127.27.20.141:56019] logged in with entity id 7095 at (-53.4258229058205, 63.0, -3.416900653386725)
+[03Jan2025 19:31:19.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 joined the game
+[03Jan2025 19:31:20.355] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Luismt150 (18)
+[03Jan2025 19:31:20.356] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Luismt150
+[03Jan2025 19:31:25.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 98144b4f-a83b-3243-8a17-0cfafd4b2524
+[03Jan2025 19:31:26.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 98144b4f-a83b-3243-8a17-0cfafd4b2524
+[03Jan2025 19:31:26.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Luismt150 (98144b4f-a83b-3243-8a17-0cfafd4b2524) successfully connected to voice chat
+[03Jan2025 19:33:48.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 19:33:48.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 19:33:48.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 19:33:58.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:33:59.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 19:33:59.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 19:34:02.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [Knowledge raises the soul]
+[03Jan2025 19:35:17.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has reached the goal [Die Classy]

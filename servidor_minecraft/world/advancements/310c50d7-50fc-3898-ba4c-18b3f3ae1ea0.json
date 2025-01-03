@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 22:46:23 +0000"
@@ -311,6 +317,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2025-01-03 04:03:44 +0000"
@@ -353,6 +365,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-01 22:56:52 +0000"
@@ -392,6 +410,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-01 23:54:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
     },
     "done": true
   },
@@ -621,6 +645,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-01-03 04:03:44 +0000"
@@ -702,6 +732,12 @@
   "mcwbridges:recipes/warped_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
     },
     "done": true
   },
@@ -819,6 +855,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-01 23:08:15 +0000"
@@ -894,6 +936,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-01 23:37:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
     },
     "done": true
   },
@@ -1059,6 +1107,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-01-03 19:23:02 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/crimson": {
     "criteria": {
       "has_wood": "2025-01-03 04:03:44 +0000"
@@ -1082,12 +1136,14 @@
       "minecraft:forest": "2025-01-01 22:55:34 +0000",
       "minecraft:mountains": "2025-01-01 22:59:37 +0000",
       "minecraft:taiga": "2025-01-01 22:30:11 +0000",
+      "minecraft:giant_tree_taiga": "2025-01-03 19:25:25 +0000",
       "minecraft:taiga_hills": "2025-01-01 22:29:45 +0000",
       "minecraft:desert": "2025-01-02 23:03:04 +0000",
       "minecraft:dark_forest": "2025-01-01 22:56:54 +0000",
       "minecraft:river": "2025-01-01 22:54:11 +0000",
       "minecraft:wooded_mountains": "2025-01-01 23:06:16 +0000",
       "minecraft:wooded_hills": "2025-01-03 19:10:10 +0000",
+      "minecraft:giant_tree_taiga_hills": "2025-01-03 19:30:58 +0000",
       "minecraft:swamp": "2025-01-02 23:26:59 +0000",
       "minecraft:savanna": "2025-01-02 23:02:40 +0000",
       "minecraft:plains": "2025-01-01 22:54:22 +0000"
@@ -1136,6 +1192,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-01 23:08:52 +0000"
@@ -1169,6 +1231,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 19:22:58 +0000"
     },
     "done": true
   },
@@ -1235,6 +1303,12 @@
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
     },
     "done": true
   },
@@ -1340,6 +1414,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-01-01 22:56:52 +0000"
@@ -1379,6 +1459,12 @@
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
     },
     "done": true
   },
@@ -1493,6 +1579,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-01 23:54:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
     },
     "done": true
   },
@@ -1746,6 +1838,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-01-01 23:54:14 +0000"
@@ -1779,6 +1877,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-01-01 22:59:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
     },
     "done": true
   },
@@ -1857,6 +1961,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-02 00:19:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
     },
     "done": true
   },
@@ -2202,6 +2312,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-01-03 19:29:14 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-01-03 04:03:44 +0000"
@@ -2259,6 +2375,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-01 23:41:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
     },
     "done": true
   },
@@ -2517,6 +2639,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-01-01 23:57:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-01-03 19:29:15 +0000"
     },
     "done": true
   },
