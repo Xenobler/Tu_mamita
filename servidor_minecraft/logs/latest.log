@@ -138,3 +138,49 @@ java.lang.NullPointerException: null
 [03Jan2025 19:57:47.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Survival Mode]
 [03Jan2025 20:00:37.505] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 0.2896099007687667
 [03Jan2025 20:00:37.560] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of HaruGlan) moved wrongly! 0.7233945567980982
+[03Jan2025 20:04:03.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 20:04:03.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 20:04:03.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 20:04:16.502] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
+[03Jan2025 20:04:16.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[03Jan2025 20:04:16.506] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[03Jan2025 20:04:16.551] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[03Jan2025 20:04:33.862] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7faedffd
+[03Jan2025 20:04:33.879] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:56229] logged in with entity id 3333 at (-40.51311830510587, 63.85000001788139, 1.6802259470500007)
+[03Jan2025 20:04:33.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[03Jan2025 20:04:36.658] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[03Jan2025 20:04:36.658] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 20:04:59.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 20:05:00.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 20:05:00.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 20:06:27.551] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Disconnected
+[03Jan2025 20:06:27.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[03Jan2025 20:06:27.551] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[03Jan2025 20:06:45.960] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7dba455e
+[03Jan2025 20:06:45.976] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:48627] logged in with entity id 3527 at (-40.51311830510587, 63.85000001788139, 1.6802259470500007)
+[03Jan2025 20:06:45.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[03Jan2025 20:06:48.222] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[03Jan2025 20:06:48.223] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 20:06:58.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 20:06:59.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 20:06:59.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 20:07:52.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Creative Mode]
+[03Jan2025 20:08:03.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Survival Mode]
+[03Jan2025 20:08:32.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[03Jan2025 20:08:32.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[03Jan2025 20:08:32.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 20:08:32.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 20:08:33.876] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 20:08:33.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 20:08:44.449] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Disconnected
+[03Jan2025 20:08:44.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[03Jan2025 20:08:44.450] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[03Jan2025 20:08:58.207] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@334c7135
+[03Jan2025 20:08:58.220] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:57163] logged in with entity id 3724 at (-40.51311830510587, 63.85000001788139, 1.6802259470500007)
+[03Jan2025 20:08:58.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[03Jan2025 20:08:59.093] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[03Jan2025 20:08:59.093] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 20:09:08.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 20:09:09.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[03Jan2025 20:09:09.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[03Jan2025 20:10:53.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the time to 1000]
