@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 20:41:59 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
@@ -254,6 +260,12 @@
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-03 19:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 20:41:59 +0000"
     },
     "done": true
   },
@@ -1134,6 +1146,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-01 23:04:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 20:41:59 +0000"
     },
     "done": true
   },
@@ -2604,6 +2622,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 20:41:59 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
@@ -2661,6 +2685,12 @@
   "mcwbridges:recipes/warped_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2025-01-03 20:41:59 +0000"
     },
     "done": true
   },
@@ -2781,6 +2811,12 @@
   "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-03 20:50:52 +0000"
     },
     "done": true
   },

@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 20:25:23 +0000"
@@ -194,6 +200,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-01-02 00:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
     },
     "done": true
   },
@@ -572,6 +584,18 @@
   "securitycraft:recipes/securitycraft/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-01-03 20:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
     },
     "done": true
   },
@@ -1051,6 +1075,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 18:06:24 +0000"
@@ -1165,6 +1201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-01-01 22:42:12 +0000"
@@ -1219,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 22:42:14 +0000"
@@ -1264,6 +1312,12 @@
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 18:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-03 20:43:18 +0000"
     },
     "done": true
   },
@@ -1330,6 +1384,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-01 22:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
     },
     "done": true
   },
@@ -1447,6 +1507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-03 20:25:23 +0000"
@@ -1497,6 +1563,7 @@
       "minecraft:taiga_hills": "2025-01-01 22:32:27 +0000",
       "minecraft:beach": "2025-01-01 23:00:04 +0000",
       "minecraft:river": "2025-01-01 22:56:31 +0000",
+      "minecraft:wooded_mountains": "2025-01-03 20:41:16 +0000",
       "minecraft:wooded_hills": "2025-01-03 18:16:46 +0000"
     },
     "done": false
@@ -1735,6 +1802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-03 20:23:13 +0000"
@@ -1762,6 +1835,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-03 20:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
     },
     "done": true
   },
@@ -1807,6 +1886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-01 22:38:12 +0000"
@@ -1834,6 +1919,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-01 23:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
     },
     "done": true
   },
@@ -1894,6 +1985,12 @@
   "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 18:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
     },
     "done": true
   },
@@ -1981,6 +2078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-01 22:44:53 +0000"
@@ -2053,6 +2156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-01 23:38:29 +0000"
@@ -2068,6 +2177,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
     },
     "done": true
   },
@@ -2205,6 +2320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-03 20:23:13 +0000"
@@ -2244,6 +2365,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 22:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
     },
     "done": true
   },
@@ -2361,6 +2488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-01 22:42:12 +0000"
@@ -2400,6 +2533,12 @@
   "securitycraft:recipes/securitycraft/reinforced_stone_button": {
     "criteria": {
       "has_block": "2025-01-03 20:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
     },
     "done": true
   },
@@ -2559,6 +2698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-01 22:37:10 +0000"
@@ -2673,6 +2818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/claymore": {
     "criteria": {
       "has_redstone": "2025-01-03 20:22:08 +0000"
@@ -2688,6 +2839,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2025-01-01 22:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
     },
     "done": true
   },
@@ -2733,6 +2890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-01-03 20:39:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-01-03 20:32:57 +0000"
@@ -2757,6 +2920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-01 23:36:40 +0000"
@@ -2778,6 +2947,12 @@
   "mcwbridges:recipes/crimson_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-03 18:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
     },
     "done": true
   },
@@ -2814,6 +2989,12 @@
   "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-01-03 18:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-03 20:40:24 +0000"
     },
     "done": true
   },
@@ -2910,6 +3091,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2025-01-01 23:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
     },
     "done": true
   },
@@ -3066,6 +3253,12 @@
   "securitycraft:recipes/securitycraft/floor_trap": {
     "criteria": {
       "has_iron": "2025-01-03 18:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
     },
     "done": true
   },
@@ -3375,6 +3568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 20:40:24 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/andesite": {
     "criteria": {
       "has_planks": "2025-01-03 18:06:24 +0000"
@@ -3438,6 +3637,12 @@
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2025-01-03 18:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 20:43:18 +0000"
     },
     "done": true
   },
