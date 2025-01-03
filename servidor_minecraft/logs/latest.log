@@ -93,3 +93,19 @@ java.lang.NullPointerException: null
 [03Jan2025 03:44:59.853] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@3a5cc66c[id=<null>,name=HaruGlan,properties={},legacy=false] (/127.201.211.232:52955) lost connection: Took too long to log in
 [03Jan2025 03:45:40.503] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@3fd0d65d[id=<null>,name=HaruGlan,properties={},legacy=false] (/127.201.211.232:53923): Took too long to log in
 [03Jan2025 03:45:40.553] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@3fd0d65d[id=<null>,name=HaruGlan,properties={},legacy=false] (/127.201.211.232:53923) lost connection: Took too long to log in
+[03Jan2025 04:03:44.178] [Server thread/WARN] [net.minecraft.stats.ServerStatisticsManager/]: Invalid statistic in ./world/stats/310c50d7-50fc-3898-ba4c-18b3f3ae1ea0.json: Don't know what gravestone:death_info is
+[03Jan2025 04:03:44.179] [Server thread/WARN] [net.minecraft.stats.ServerStatisticsManager/]: Invalid statistic in ./world/stats/310c50d7-50fc-3898-ba4c-18b3f3ae1ea0.json: Don't know what gravestone:death_info is
+[03Jan2025 04:03:44.227] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@171d79bc
+[03Jan2025 04:03:44.260] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:55531] logged in with entity id 241 at (-41.147469677013476, 63.0, 0.21102375022120437)
+[03Jan2025 04:03:44.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[03Jan2025 04:03:44.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [Easter Egg Searcher]
+[03Jan2025 04:04:04.464] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[03Jan2025 04:04:04.466] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[03Jan2025 04:06:45.259] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
+[03Jan2025 04:06:45.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[03Jan2025 04:06:45.264] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[03Jan2025 04:06:45.344] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[03Jan2025 04:11:01.853] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@78c1c005[id=<null>,name=HaruGlan,properties={},legacy=false] (/127.201.211.232:50061): Took too long to log in
+[03Jan2025 04:11:01.903] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@78c1c005[id=<null>,name=HaruGlan,properties={},legacy=false] (/127.201.211.232:50061) lost connection: Took too long to log in
+[03Jan2025 04:12:13.703] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@4aee95fa[id=<null>,name=HaruGlan,properties={},legacy=false] (/127.201.211.232:49999): Took too long to log in
+[03Jan2025 04:12:13.753] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4aee95fa[id=<null>,name=HaruGlan,properties={},legacy=false] (/127.201.211.232:49999) lost connection: Took too long to log in
