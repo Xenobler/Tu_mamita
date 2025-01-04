@@ -1795,6 +1795,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-04 02:40:42 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-01-03 04:03:44 +0000"
