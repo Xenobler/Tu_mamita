@@ -120,3 +120,17 @@ java.lang.NullPointerException: null
 [04Jan2025 03:22:47.041] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
 [04Jan2025 03:22:47.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
 [04Jan2025 03:22:47.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[04Jan2025 03:27:37.545] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@23b0482e
+[04Jan2025 03:27:37.556] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:56385] logged in with entity id 2125 at (-490.23286195785647, 90.0, 39.69999998807907)
+[04Jan2025 03:27:37.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[04Jan2025 03:28:44.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan is bleeding...
+[04Jan2025 03:28:44.495] [Server thread/WARN] [tombstone/]: The death event of the player HaruGlan was canceled by another mod
+[04Jan2025 03:28:44.504] [Server thread/INFO] [tombstone/]: The player HaruGlan has successfully been saved
+[04Jan2025 03:29:44.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan was slain by Zombie
+[04Jan2025 03:30:31.015] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[04Jan2025 03:30:31.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[04Jan2025 03:33:22.885] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
+[04Jan2025 03:33:22.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[04Jan2025 03:33:22.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has reached the goal [Chain Death]
+[04Jan2025 03:33:22.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan was slain by Zombie
+[04Jan2025 03:33:22.891] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan

@@ -2310,3 +2310,50 @@ java.lang.NullPointerException: null
 [04Jan2025 03:27:14.085] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config dynamictrees-server.toml' to 'fml:handshake' sequence 39
 [04Jan2025 03:27:14.135] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 40
 [04Jan2025 03:27:14.185] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config astralsorcery.toml' to 'fml:handshake' sequence 41
+[04Jan2025 03:27:36.936] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[04Jan2025 03:27:36.936] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[04Jan2025 03:27:36.936] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 03:27:36.977] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[04Jan2025 03:27:36.977] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[04Jan2025 03:27:36.977] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 03:27:36.977] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[04Jan2025 03:27:36.977] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[04Jan2025 03:27:36.977] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 03:27:36.977] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[04Jan2025 03:27:36.977] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[04Jan2025 03:27:36.977] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 03:27:36.977] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[04Jan2025 03:27:36.978] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[04Jan2025 03:27:36.978] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 03:27:36.978] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[04Jan2025 03:27:36.978] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[04Jan2025 03:27:36.978] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 03:27:37.459] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[04Jan2025 03:27:37.459] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[04Jan2025 03:27:37.459] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 03:27:37.485] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Jan2025 03:27:37.545] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@23b0482e
+[04Jan2025 03:27:37.556] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:56385] logged in with entity id 2125 at (-490.23286195785647, 90.0, 39.69999998807907)
+[04Jan2025 03:27:37.557] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@48f71d1e into net.minecraft.network.NetworkManager@6707d228
+[04Jan2025 03:27:37.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[04Jan2025 03:27:37.578] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of HaruGlan: {disabled=false, disconnected=true, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=null}
+[04Jan2025 03:27:50.377] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:27:50.382] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 03:28:44.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan is bleeding...
+[04Jan2025 03:28:44.495] [Server thread/WARN] [tombstone/]: The death event of the player HaruGlan was canceled by another mod
+[04Jan2025 03:28:44.504] [Server thread/INFO] [tombstone/]: The player HaruGlan has successfully been saved
+[04Jan2025 03:29:44.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan was slain by Zombie
+[04Jan2025 03:29:44.447] [Server thread/DEBUG] [tombstone/]: A new grave of the player HaruGlan was created at position [x:-491, y:90, z:39, dim:minecraft:overworld]
+[04Jan2025 03:30:31.015] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[04Jan2025 03:30:31.016] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to HaruGlan
+[04Jan2025 03:30:31.016] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with HaruGlan
+[04Jan2025 03:30:31.016] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with HaruGlan
+[04Jan2025 03:30:31.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[04Jan2025 03:32:50.379] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:32:50.385] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 03:33:22.885] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
+[04Jan2025 03:33:22.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[04Jan2025 03:33:22.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has reached the goal [Chain Death]
+[04Jan2025 03:33:22.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan was slain by Zombie
+[04Jan2025 03:33:22.891] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of HaruGlan
+[04Jan2025 03:33:22.891] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
