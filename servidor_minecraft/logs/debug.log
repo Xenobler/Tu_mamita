@@ -2616,3 +2616,15 @@ java.lang.NullPointerException: null
 [04Jan2025 02:26:24.964] [Worker-Main-23/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJJOJxOJxOJxOJ79+b+Xvzz8+WXnt+b+WXvk+fy+tz+Xvkz+Xnzzz98nyWXvtz9
 [04Jan2025 02:26:31.933] [Worker-Main-24/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
 [04Jan2025 02:26:31.948] [Worker-Main-24/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[04Jan2025 02:28:36.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the weather to clear]
+[04Jan2025 02:29:03.191] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:29:03.197] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 02:30:39.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Creative Mode]
+[04Jan2025 02:30:56.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Survival Mode]
+[04Jan2025 02:30:58.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [Take Aim]
+[04Jan2025 02:34:03.055] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:34:03.061] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 02:34:28.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the weather to clear]
+[04Jan2025 02:34:32.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the time to 1000]
+[04Jan2025 02:35:43.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Creative Mode]
+[04Jan2025 02:37:10.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Survival Mode]

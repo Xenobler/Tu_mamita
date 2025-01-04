@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-04 02:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-01 22:47:55 +0000"
@@ -591,6 +597,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-01 23:08:28 +0000",
       "minecraft:spider": "2025-01-01 23:08:42 +0000",
+      "minecraft:creeper": "2025-01-04 02:31:03 +0000",
       "minecraft:witch": "2025-01-01 23:08:51 +0000",
       "minecraft:zombie": "2025-01-01 22:48:46 +0000",
       "minecraft:zombie_villager": "2025-01-02 01:00:20 +0000"
@@ -1908,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-01-04 02:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 22:46:23 +0000"
@@ -2871,6 +2884,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-01-01 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-04 02:30:58 +0000"
     },
     "done": true
   },
