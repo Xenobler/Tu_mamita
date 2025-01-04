@@ -2357,3 +2357,7 @@ java.lang.NullPointerException: null
 [04Jan2025 03:33:22.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan was slain by Zombie
 [04Jan2025 03:33:22.891] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of HaruGlan
 [04Jan2025 03:33:22.891] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[04Jan2025 03:37:50.159] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:37:50.165] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 03:42:50.160] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:42:50.166] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
