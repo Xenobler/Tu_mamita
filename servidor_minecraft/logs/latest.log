@@ -110,3 +110,23 @@ java.lang.NullPointerException: null
 [04Jan2025 02:16:38.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
 [04Jan2025 02:16:38.100] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
 [04Jan2025 02:16:38.172] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[04Jan2025 02:19:38.360] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@22f155d7
+[04Jan2025 02:19:38.374] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:41549] logged in with entity id 1308 at (-513.7737808937104, 96.0, 50.84336229834618)
+[04Jan2025 02:19:38.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[04Jan2025 02:19:46.978] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[04Jan2025 02:19:46.979] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[04Jan2025 02:20:23.499] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
+[04Jan2025 02:20:23.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[04Jan2025 02:20:23.500] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[04Jan2025 02:21:09.700] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@276cdcc6
+[04Jan2025 02:21:09.711] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:46545] logged in with entity id 1650 at (-513.7737808937104, 96.0, 50.84336229834618)
+[04Jan2025 02:21:09.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[04Jan2025 02:21:15.277] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[04Jan2025 02:21:15.278] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[04Jan2025 02:22:26.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[04Jan2025 02:22:27.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[04Jan2025 02:22:27.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[04Jan2025 02:23:31.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the weather to clear]
+[04Jan2025 02:23:39.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the time to 1000]
+[04Jan2025 02:26:31.933] [Worker-Main-24/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[04Jan2025 02:26:31.948] [Worker-Main-24/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
