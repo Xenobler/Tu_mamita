@@ -2274,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-04 02:15:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-01 22:53:48 +0000"
@@ -2829,6 +2835,12 @@
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-04 02:15:57 +0000"
     },
     "done": true
   },
