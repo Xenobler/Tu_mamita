@@ -2657,3 +2657,87 @@ java.lang.NullPointerException: null
 [04Jan2025 18:44:36.623] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=null}
 [04Jan2025 18:45:21.752] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [04Jan2025 18:45:21.756] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 18:46:03.124] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Disconnected
+[04Jan2025 18:46:03.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[04Jan2025 18:46:03.125] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of HaruGlan
+[04Jan2025 18:46:03.125] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[04Jan2025 18:46:03.129] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.129] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.129] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.129] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.129] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.130] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.130] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.130] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.130] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.130] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.130] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.130] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.130] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.130] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.130] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.131] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:03.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.278] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.279] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.297] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.339] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.367] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.381] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.398] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.422] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.440] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.459] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.482] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.503] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.520] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.544] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.564] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.583] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.611] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.636] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.642] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.662] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.675] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.715] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.743] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.760] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.773] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.797] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.816] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.842] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.861] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:04.878] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:05.577] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:05.579] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:05.598] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:05.744] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 does not have a secret
+[04Jan2025 18:46:24.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[04Jan2025 18:46:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jan2025 18:46:24.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jan2025 18:46:24.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jan2025 18:46:24.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Jan2025 18:46:25.079] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2025 18:46:25.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Jan2025 18:46:25.080] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2025 18:46:25.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Jan2025 18:46:25.081] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2025 18:46:25.081] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 18:46:25.086] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 18:46:25.102] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2025 18:46:25.109] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2025 18:46:25.109] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2025 18:46:25.111] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[04Jan2025 18:46:25.111] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[04Jan2025 18:46:25.112] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file forge-server.toml changed, sending notifies
+[04Jan2025 18:46:25.113] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Forge config just got changed on the file system!
+[04Jan2025 18:46:25.113] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies
