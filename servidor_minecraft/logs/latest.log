@@ -179,3 +179,28 @@ java.lang.NullPointerException: null
 [05Jan2025 05:51:45.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> :3
 [05Jan2025 05:51:48.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Iron_Girl_03> que si
 [05Jan2025 05:51:57.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the time to 1000]
+[05Jan2025 05:53:12.030] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 05:53:12.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 05:53:12.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 05:53:28.216] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
+[05Jan2025 05:53:28.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[05Jan2025 05:53:28.220] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[05Jan2025 05:53:28.268] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[05Jan2025 05:57:52.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 has made the advancement [We Need to Go Deeper]
+[05Jan2025 05:57:52.464] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Chimmy moved too quickly! -3.042638401641554,-1.0784000015258783,9.626789113469421
+[05Jan2025 05:57:52.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[05Jan2025 06:00:11.069] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: sofix_pro17 lost connection: Disconnected
+[05Jan2025 06:00:11.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sofix_pro17 left the game
+[05Jan2025 06:00:11.070] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sofix_pro17
+[05Jan2025 06:00:42.777] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1b0c95c7
+[05Jan2025 06:00:42.794] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: sofix_pro17[/127.156.116.57:49681] logged in with entity id 3156 at (-72.93141297038332, 63.0, -37.69985719690984)
+[05Jan2025 06:00:42.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sofix_pro17 joined the game
+[05Jan2025 06:00:43.106] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sofix_pro17 (18)
+[05Jan2025 06:00:43.106] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sofix_pro17
+[05Jan2025 06:00:45.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b56dee3a-2533-395f-afc4-e3ca842227c2
+[05Jan2025 06:00:46.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b56dee3a-2533-395f-afc4-e3ca842227c2
+[05Jan2025 06:00:46.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player sofix_pro17 (b56dee3a-2533-395f-afc4-e3ca842227c2) successfully connected to voice chat
+[05Jan2025 06:01:00.167] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Chimmy lost connection: Disconnected
+[05Jan2025 06:01:00.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy left the game
+[05Jan2025 06:01:00.168] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chimmy
+[05Jan2025 06:02:43.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> zzzzz
