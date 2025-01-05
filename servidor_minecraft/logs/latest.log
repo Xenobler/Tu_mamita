@@ -122,3 +122,83 @@ java.lang.NullPointerException: null
 [05Jan2025 04:16:27.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
 [05Jan2025 04:16:36.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> HOLA
 [05Jan2025 04:16:41.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> holi
+[05Jan2025 04:16:48.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> holi
+[05Jan2025 04:16:49.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> en donde estas?
+[05Jan2025 04:16:53.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> que
+[05Jan2025 04:16:54.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> grupo?
+[05Jan2025 04:16:56.583] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 lost connection: Timed out
+[05Jan2025 04:16:56.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 left the game
+[05Jan2025 04:16:56.584] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
+[05Jan2025 04:17:33.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 04:17:33.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 04:17:33.336] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 04:17:34.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 04:17:36.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 04:17:36.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[05Jan2025 04:17:37.489] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@360ec61d
+[05Jan2025 04:17:37.499] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Luismt150[/127.27.20.141:39709] logged in with entity id 2064 at (-37.9691558469439, 72.0, -14.655958432130952)
+[05Jan2025 04:17:37.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 joined the game
+[05Jan2025 04:17:38.916] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Luismt150 (18)
+[05Jan2025 04:17:38.917] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Luismt150
+[05Jan2025 04:17:46.923] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 98144b4f-a83b-3243-8a17-0cfafd4b2524
+[05Jan2025 04:17:47.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 98144b4f-a83b-3243-8a17-0cfafd4b2524
+[05Jan2025 04:17:47.925] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Luismt150 (98144b4f-a83b-3243-8a17-0cfafd4b2524) successfully connected to voice chat
+[05Jan2025 04:17:57.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> hola?
+[05Jan2025 04:18:02.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> tas bien?
+[05Jan2025 04:18:05.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> sisi
+[05Jan2025 04:18:09.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> grupo
+[05Jan2025 04:18:11.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> uwu
+[05Jan2025 04:18:27.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> perame
+[05Jan2025 04:18:28.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 04:18:28.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 04:18:28.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 04:18:31.572] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 04:18:32.572] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 04:18:32.572] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[05Jan2025 04:18:35.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> ok
+[05Jan2025 04:18:35.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> que toy ayudando a todos
+[05Jan2025 04:18:38.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> a ok
+[05Jan2025 04:18:41.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> a unirse
+[05Jan2025 04:18:49.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> vale
+[05Jan2025 04:19:01.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> viste el tmeplo como me quedo?
+[05Jan2025 04:19:04.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> la wea gigante
+[05Jan2025 04:19:08.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> si la media wea
+[05Jan2025 04:19:10.941] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 04:19:10.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 04:19:10.943] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 04:19:11.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 04:19:12.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 04:19:12.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[05Jan2025 04:19:14.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> ta lindo
+[05Jan2025 04:19:51.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 04:19:51.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 04:19:51.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 04:19:52.925] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 04:19:53.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 04:19:53.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[05Jan2025 04:24:32.293] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[05Jan2025 04:24:32.298] [Netty Epoll Server IO #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@6c49a77b[id=<null>,name=CataLaGata,properties={},legacy=false] (/127.190.152.39:46425): Unexpected custom data from client
+[05Jan2025 04:24:32.338] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6c49a77b[id=<null>,name=CataLaGata,properties={},legacy=false] (/127.190.152.39:46425) lost connection: Unexpected custom data from client
+[05Jan2025 04:24:59.322] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[05Jan2025 04:24:59.323] [Netty Epoll Server IO #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@1c57f65e[id=<null>,name=CataLaGata,properties={},legacy=false] (/127.190.152.39:36787): Unexpected custom data from client
+[05Jan2025 04:24:59.333] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1c57f65e[id=<null>,name=CataLaGata,properties={},legacy=false] (/127.190.152.39:36787) lost connection: Unexpected custom data from client
+[05Jan2025 04:25:35.483] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@69490734
+[05Jan2025 04:25:35.488] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Chimmy[/127.156.116.57:57855] logged in with entity id 4036 at (84.5, 67.0, 214.5)
+[05Jan2025 04:25:35.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy joined the game
+[05Jan2025 04:25:35.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy has made the advancement [Easter Egg Searcher]
+[05Jan2025 04:25:36.846] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chimmy (18)
+[05Jan2025 04:25:36.847] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chimmy
+[05Jan2025 04:25:43.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 95b2f40a-38a8-3852-9d66-8475178bacfa
+[05Jan2025 04:25:44.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 95b2f40a-38a8-3852-9d66-8475178bacfa
+[05Jan2025 04:25:44.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chimmy (95b2f40a-38a8-3852-9d66-8475178bacfa) successfully connected to voice chat
+[05Jan2025 04:25:47.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> A
+[05Jan2025 04:25:55.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HaruGlan> ¿?
+[05Jan2025 04:26:07.280] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[05Jan2025 04:26:07.281] [Netty Epoll Server IO #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@1fbd93ce[id=<null>,name=CataLaGata,properties={},legacy=false] (/127.190.152.39:42107): Unexpected custom data from client
+[05Jan2025 04:26:07.289] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1fbd93ce[id=<null>,name=CataLaGata,properties={},legacy=false] (/127.190.152.39:42107) lost connection: Unexpected custom data from client
+[05Jan2025 04:26:15.227] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[05Jan2025 04:26:15.228] [Netty Epoll Server IO #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@714bdcfc[id=<null>,name=CataLaGata,properties={},legacy=false] (/127.190.152.39:34597): Unexpected custom data from client
+[05Jan2025 04:26:15.236] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@714bdcfc[id=<null>,name=CataLaGata,properties={},legacy=false] (/127.190.152.39:34597) lost connection: Unexpected custom data from client
+[05Jan2025 04:26:41.226] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[05Jan2025 04:26:41.227] [Netty Epoll Server IO #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@3a3012b2[id=<null>,name=CataLaGata,properties={},legacy=false] (/127.190.152.39:33733): Unexpected custom data from client
+[05Jan2025 04:26:41.237] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@3a3012b2[id=<null>,name=CataLaGata,properties={},legacy=false] (/127.190.152.39:33733) lost connection: Unexpected custom data from client
