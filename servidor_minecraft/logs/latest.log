@@ -204,3 +204,29 @@ java.lang.NullPointerException: null
 [05Jan2025 06:01:00.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy left the game
 [05Jan2025 06:01:00.168] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chimmy
 [05Jan2025 06:02:43.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luismt150> zzzzz
+[05Jan2025 06:03:14.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Iron_Girl_03> zzzzzz
+[05Jan2025 06:03:31.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <sofix_pro17> zzzzz
+[05Jan2025 06:04:07.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CataLaGata has made the advancement [We Need to Go Deeper]
+[05Jan2025 06:04:36.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 98144b4f-a83b-3243-8a17-0cfafd4b2524 timed out
+[05Jan2025 06:04:36.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Luismt150
+[05Jan2025 06:04:36.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Luismt150
+[05Jan2025 06:04:40.804] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 98144b4f-a83b-3243-8a17-0cfafd4b2524
+[05Jan2025 06:04:41.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 98144b4f-a83b-3243-8a17-0cfafd4b2524
+[05Jan2025 06:04:41.804] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Luismt150 (98144b4f-a83b-3243-8a17-0cfafd4b2524) successfully connected to voice chat
+[05Jan2025 06:06:49.718] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 lost connection: Disconnected
+[05Jan2025 06:06:49.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 left the game
+[05Jan2025 06:06:49.719] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
+[05Jan2025 06:07:41.965] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: CataLaGata lost connection: Disconnected
+[05Jan2025 06:07:41.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CataLaGata left the game
+[05Jan2025 06:07:41.966] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CataLaGata
+[05Jan2025 06:07:48.417] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: sofix_pro17 lost connection: Disconnected
+[05Jan2025 06:07:48.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sofix_pro17 left the game
+[05Jan2025 06:07:48.417] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sofix_pro17
+[05Jan2025 06:11:50.025] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@786dc7a9
+[05Jan2025 06:11:50.044] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:38163] logged in with entity id 5162 at (-63.274624629927025, 62.9375, 21.121003655697532)
+[05Jan2025 06:11:50.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[05Jan2025 06:11:58.689] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[05Jan2025 06:11:58.689] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 06:12:27.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 06:12:28.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 06:12:28.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
