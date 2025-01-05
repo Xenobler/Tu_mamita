@@ -997,6 +997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-05 04:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-01 23:07:29 +0000"
@@ -1042,6 +1048,12 @@
   "mcwbridges:recipes/sandstone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-03 18:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-05 04:37:56 +0000"
     },
     "done": true
   },
@@ -1408,6 +1420,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2025-01-01 23:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-05 04:37:56 +0000"
     },
     "done": true
   },
