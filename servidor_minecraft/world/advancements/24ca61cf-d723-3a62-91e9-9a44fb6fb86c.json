@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-05 05:17:31 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2025-01-05 04:29:45 +0000"
@@ -925,6 +931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-05 05:17:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-31 23:13:49 +0000"
@@ -1398,6 +1410,12 @@
   "mcwbridges:recipes/balustrade_prismarine_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-05 05:18:37 +0000"
     },
     "done": true
   },
@@ -2344,6 +2362,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-01-01 22:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-05 05:18:37 +0000"
     },
     "done": true
   },

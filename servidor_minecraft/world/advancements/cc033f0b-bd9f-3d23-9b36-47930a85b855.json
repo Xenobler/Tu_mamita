@@ -361,7 +361,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2025-01-01 23:46:17 +0000"
+      "rotten_flesh": "2025-01-01 23:46:17 +0000",
+      "cooked_salmon": "2025-01-05 05:25:35 +0000"
     },
     "done": false
   },
@@ -707,6 +708,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 05:25:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:54 +0000"
@@ -962,6 +969,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 22:20:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 05:25:35 +0000"
     },
     "done": true
   },
