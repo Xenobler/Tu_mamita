@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-01-01 22:48:02 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-01-01 22:48:02 +0000"
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2025-01-05 21:27:41 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/grass": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
@@ -212,6 +230,12 @@
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
     },
     "done": true
   },
@@ -290,6 +314,12 @@
   "mcwbridges:recipes/cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-05 20:41:51 +0000"
     },
     "done": true
   },
@@ -386,6 +416,12 @@
   "mcwbridges:recipes/glass_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
     },
     "done": true
   },
@@ -581,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-01 23:37:43 +0000"
@@ -715,6 +757,12 @@
     },
     "done": true
   },
+  "astralsorcery:craft_t2_altar": {
+    "criteria": {
+      "altar_craft_t2_altar": "2025-01-05 20:46:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 22:46:23 +0000"
@@ -736,6 +784,12 @@
   "securitycraft:recipes/securitycraft/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-05 21:27:45 +0000"
     },
     "done": true
   },
@@ -850,6 +904,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-01-02 00:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-05 21:27:45 +0000"
     },
     "done": true
   },
@@ -1111,6 +1171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 22:46:23 +0000"
@@ -1279,6 +1345,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-05 21:27:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-01-03 19:43:08 +0000",
@@ -1410,9 +1488,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-05 05:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-05 21:27:45 +0000"
     },
     "done": true
   },
@@ -1584,6 +1674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-05 21:27:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
@@ -1704,6 +1800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
@@ -1725,6 +1827,12 @@
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-01-03 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
     },
     "done": true
   },
@@ -2041,6 +2149,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-01 23:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-05 21:27:45 +0000"
     },
     "done": true
   },
@@ -2380,6 +2494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-05 20:41:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-01 23:54:14 +0000"
@@ -2497,6 +2617,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-01 22:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
     },
     "done": true
   },
@@ -2659,6 +2785,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-01-03 19:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
     },
     "done": true
   },
@@ -2944,6 +3076,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-01-05 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2025-01-05 21:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-01-01 23:51:51 +0000"
@@ -3031,6 +3175,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-01-03 19:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
     },
     "done": true
   },
@@ -3145,6 +3295,12 @@
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2025-01-03 19:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-05 20:56:00 +0000"
     },
     "done": true
   },

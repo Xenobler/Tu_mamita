@@ -807,7 +807,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-02 00:40:57 +0000",
       "minecraft:creeper": "2025-01-03 19:14:57 +0000",
-      "minecraft:zombie": "2025-01-01 23:06:18 +0000"
+      "minecraft:zombie": "2025-01-01 23:06:18 +0000",
+      "minecraft:zombie_villager": "2025-01-05 21:06:53 +0000"
     },
     "done": false
   },
@@ -2267,6 +2268,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-05 05:03:51 +0000",
+      "sweet_berries": "2025-01-05 20:30:51 +0000",
       "cooked_beef": "2025-01-05 04:22:14 +0000",
       "porkchop": "2025-01-05 05:02:10 +0000",
       "rotten_flesh": "2025-01-02 22:12:40 +0000",
@@ -2484,6 +2486,12 @@
       "has_planks": "2025-01-03 18:06:24 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-01-05 20:52:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
@@ -2986,6 +2994,12 @@
   "securitycraft:recipes/securitycraft/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-01-03 20:32:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 21:06:58 +0000"
     },
     "done": true
   },
@@ -3700,6 +3714,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-01-01 23:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-05 20:52:39 +0000"
     },
     "done": true
   },

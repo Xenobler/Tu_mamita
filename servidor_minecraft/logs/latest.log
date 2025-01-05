@@ -1,742 +1,169 @@
-[05Jan2025 19:25:31.155] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[05Jan2025 19:25:31.158] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[05Jan2025 19:25:31.506] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[05Jan2025 19:25:31.570] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Tu_mamita/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[05Jan2025 19:25:32.179] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[05Jan2025 19:25:32.277] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[05Jan2025 19:25:32.284] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[05Jan2025 19:25:32.289] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[05Jan2025 19:25:32.295] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[05Jan2025 19:25:32.300] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[05Jan2025 19:25:32.304] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[05Jan2025 19:25:33.271] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [hellfirepvp.astralsorcery.MixinConnector]
-[05Jan2025 19:25:33.276] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[05Jan2025 19:25:33.758] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
-[05Jan2025 19:25:33.868] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
-[05Jan2025 19:25:34.022] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
-[05Jan2025 19:25:34.101] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
-[05Jan2025 19:25:35.159] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
-[05Jan2025 19:25:35.162] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
-[05Jan2025 19:25:39.356] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[05Jan2025 19:25:39.368] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[05Jan2025 19:25:40.070] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[05Jan2025 19:25:40.096] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[05Jan2025 19:25:46.926] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[05Jan2025 19:25:47.033] [modloading-worker-2/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
-[05Jan2025 19:25:47.041] [modloading-worker-2/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
-[05Jan2025 19:25:47.100] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Loading plugins
-[05Jan2025 19:25:47.105] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[05Jan2025 19:25:47.105] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Initializing plugins
-[05Jan2025 19:25:47.105] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[05Jan2025 19:25:47.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[05Jan2025 19:25:47.707] [AstralSorcery Patreon Effect Loader/WARN] [Astral Sorcery/]: Skipped 1 patreon effects during loading due to malformed data!
-[05Jan2025 19:25:47.707] [AstralSorcery Patreon Effect Loader/INFO] [Astral Sorcery/]: Patreon effect loading finished.
-[05Jan2025 19:25:47.758] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 3.0.1 Target: null
-[05Jan2025 19:25:47.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[05Jan2025 19:25:48.504] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[05Jan2025 21:35:09.638] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[05Jan2025 21:35:09.640] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[05Jan2025 21:35:11.021] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[05Jan2025 21:35:11.150] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Tu_mamita/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[05Jan2025 21:35:12.352] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05Jan2025 21:35:12.475] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05Jan2025 21:35:12.482] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05Jan2025 21:35:12.489] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05Jan2025 21:35:12.494] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05Jan2025 21:35:12.501] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05Jan2025 21:35:12.506] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05Jan2025 21:35:13.998] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [hellfirepvp.astralsorcery.MixinConnector]
+[05Jan2025 21:35:14.005] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[05Jan2025 21:35:14.709] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[05Jan2025 21:35:14.874] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[05Jan2025 21:35:15.149] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[05Jan2025 21:35:15.237] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[05Jan2025 21:35:16.939] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[05Jan2025 21:35:16.944] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[05Jan2025 21:35:23.038] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05Jan2025 21:35:23.038] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05Jan2025 21:35:23.718] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[05Jan2025 21:35:23.723] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[05Jan2025 21:35:32.547] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[05Jan2025 21:35:32.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[05Jan2025 21:35:33.059] [modloading-worker-2/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[05Jan2025 21:35:33.125] [modloading-worker-2/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[05Jan2025 21:35:33.267] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Loading plugins
+[05Jan2025 21:35:33.283] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[05Jan2025 21:35:33.287] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Initializing plugins
+[05Jan2025 21:35:33.288] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[05Jan2025 21:35:33.503] [AstralSorcery Patreon Effect Loader/WARN] [Astral Sorcery/]: Skipped 1 patreon effects during loading due to malformed data!
+[05Jan2025 21:35:33.512] [AstralSorcery Patreon Effect Loader/INFO] [Astral Sorcery/]: Patreon effect loading finished.
+[05Jan2025 21:35:33.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 3.0.1 Target: null
+[05Jan2025 21:35:33.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[05Jan2025 21:35:34.210] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[05Jan2025 19:25:48.505] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[05Jan2025 19:25:48.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
-[05Jan2025 19:25:48.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
-[05Jan2025 19:25:48.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.1 Target: null
-[05Jan2025 19:25:48.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[05Jan2025 19:25:48.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
-[05Jan2025 19:25:48.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[05Jan2025 19:25:48.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[05Jan2025 19:25:48.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Jan2025 19:25:48.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[05Jan2025 19:25:48.685] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[05Jan2025 19:25:48.878] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: UP_TO_DATE Current: 1.16.5-0.10.5 Target: null
-[05Jan2025 19:25:48.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[05Jan2025 19:25:48.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12 Target: null
-[05Jan2025 19:25:53.182] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Jan2025 19:25:54.362] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05Jan2025 19:25:54.374] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05Jan2025 19:25:54.375] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05Jan2025 19:25:54.376] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05Jan2025 19:25:54.378] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05Jan2025 19:25:54.379] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05Jan2025 19:25:54.399] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, mcw-bridges-3.0.1-mc1.16.5forge.jar, mcw-doors-1.1.1forge-mc1.16.5.jar, voicechat-forge-1.16.5-2.5.27.jar, tombstone-1.16.5-6.9.6.jar, astralsorcery-1.16.5-1.14.1.jar, mcw-roofs-2.3.1-mc1.16.5forge.jar, CreativeCore_v2.2.1_mc1.16.5.jar, observerlib-1.16.5-1.5.3.jar, mcw-furniture-3.3.0-mc1.16.5forge.jar, curios-forge-1.16.5-4.1.0.0.jar, DynamicTrees-1.16.5-0.10.5.jar, PlayerRevive_v2.0.0-pre04_mc1.16.5.jar, [1.16.5] SecurityCraft v1.9.12.jar
-[05Jan2025 19:25:56.413] [Worker-Main-5/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load block tag minecraft:combination_step_sound_blocks as it is missing following references: #minecraft:wool_carpets (from Default),minecraft:moss_carpet (from Default),#minecraft:wool_carpets (from mcw-bridges-3.0.1-mc1.16.5forge.jar),minecraft:moss_carpet (from mcw-bridges-3.0.1-mc1.16.5forge.jar)
-[05Jan2025 19:25:56.593] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 12 recipes
-[05Jan2025 19:25:56.657] [Worker-Main-5/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on assets/astralsorcery/astralsorcery.mixins.json:MixinItemPredicate::handler$zbo000$enhanceEnchantmentList exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[05Jan2025 19:25:57.737] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1857 advancements
-[05Jan2025 19:25:57.976] [Worker-Main-5/INFO] [Astral Sorcery/]: Built PerkTree with 417 perks!
-[05Jan2025 19:26:04.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[05Jan2025 19:26:04.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Jan2025 19:26:04.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Jan2025 19:26:04.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Jan2025 19:26:05.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Jan2025 19:26:05.287] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[05Jan2025 19:26:05.497] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Jan2025 19:26:05.498] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Jan2025 19:26:05.499] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Jan2025 19:26:05.504] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Jan2025 19:26:05.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Jan2025 19:26:06.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Jan2025 19:26:07.877] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:07.877] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:07.878] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:07.878] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:11.056] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:11.058] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:11.060] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:11.061] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:11.062] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:11.063] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:11.297] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:12.134] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[05Jan2025 19:26:12.270] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
-[05Jan2025 19:26:12.770] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
-[05Jan2025 19:26:13.288] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 87%
-[05Jan2025 19:26:13.689] [Worker-Main-4/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
-[05Jan2025 19:26:13.709] [Worker-Main-4/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
-[05Jan2025 19:26:13.784] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
-[05Jan2025 19:26:14.264] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
-[05Jan2025 19:26:14.764] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
-[05Jan2025 19:26:15.576] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[05Jan2025 19:26:15.581] [Server thread/INFO] [ObserverLib/]: Load CachedWorldData 'structure_buffer' for world minecraft:overworld
-[05Jan2025 19:26:15.581] [Server thread/INFO] [ObserverLib/]: Loading of 'structure_buffer' for world minecraft:overworld finished.
-[05Jan2025 19:26:15.584] [Server thread/INFO] [ObserverLib/]: Load CachedWorldData 'lightnetwork' for world minecraft:overworld
-[05Jan2025 19:26:15.590] [Server thread/INFO] [ObserverLib/]: Loading of 'lightnetwork' for world minecraft:overworld finished.
-[05Jan2025 19:26:15.594] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 9333 ms
-[05Jan2025 19:26:15.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.063s)! For help, type "help"
-[05Jan2025 19:26:15.758] [Server thread/INFO] [Astral Sorcery/]: Loaded PerkTree!
-[05Jan2025 19:26:15.761] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[05Jan2025 19:26:15.800] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'supplies-euro.gl.at.ply.gg:3725'
-[05Jan2025 19:26:15.816] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 3725
-[05Jan2025 19:27:13.029] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ee428fc
-[05Jan2025 19:27:13.075] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:48123] logged in with entity id 217 at (-542.5392005998151, 86.76636799395752, 41.06830962737369)
-[05Jan2025 19:27:13.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
-[05Jan2025 19:27:20.812] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
-[05Jan2025 19:27:20.814] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 19:27:42.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:27:43.204] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:27:43.209] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
-[05Jan2025 19:28:06.246] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan was kicked for floating too long!
-[05Jan2025 19:28:06.247] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Flying is not enabled on this server
-[05Jan2025 19:28:06.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
-[05Jan2025 19:28:06.252] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
-[05Jan2025 19:28:06.336] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[05Jan2025 19:28:31.010] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ad27cee
-[05Jan2025 19:28:31.032] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:56865] logged in with entity id 627 at (-534.7550391466737, 90.17675927506424, 43.57331231819269)
-[05Jan2025 19:28:31.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
-[05Jan2025 19:28:32.277] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
-[05Jan2025 19:28:32.278] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 19:29:08.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:29:09.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:29:09.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
-[05Jan2025 19:29:49.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
-[05Jan2025 19:29:49.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
-[05Jan2025 19:29:49.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 19:29:53.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:29:54.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:29:54.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
-[05Jan2025 19:31:03.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
-[05Jan2025 19:31:03.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
-[05Jan2025 19:31:03.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 19:31:16.424] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
-[05Jan2025 19:31:16.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
-[05Jan2025 19:31:16.425] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
-[05Jan2025 19:31:16.497] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[05Jan2025 19:37:11.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 1000
-[05Jan2025 19:37:17.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the weather to clear
-[05Jan2025 19:47:17.102] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@117cf5ea
-[05Jan2025 19:47:17.117] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:51787] logged in with entity id 1244 at (-511.7606867344464, 90.0, 63.69999998807907)
-[05Jan2025 19:47:17.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
-[05Jan2025 19:47:24.813] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
-[05Jan2025 19:47:24.814] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 19:47:50.109] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:47:51.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:47:51.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
-[05Jan2025 19:48:16.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
-[05Jan2025 19:48:16.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
-[05Jan2025 19:48:16.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 19:48:17.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:48:18.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:48:18.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
-[05Jan2025 19:49:13.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
-[05Jan2025 19:49:13.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
-[05Jan2025 19:49:13.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 19:49:13.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:49:14.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:49:14.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
-[05Jan2025 19:50:20.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the weather to clear]
-[05Jan2025 19:52:58.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan has made the advancement [It's worth how much?]
-[05Jan2025 19:53:49.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Teleported HaruGlan to -500.5, 96.0, 54.5]
-[05Jan2025 19:54:02.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
-[05Jan2025 19:54:02.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
-[05Jan2025 19:54:02.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 19:54:03.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:54:04.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:54:04.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
-[05Jan2025 19:55:02.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
-[05Jan2025 19:55:02.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
-[05Jan2025 19:55:02.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 19:55:03.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:55:04.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 19:55:04.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
-[05Jan2025 19:55:25.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the weather to clear]
-[05Jan2025 19:55:55.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the time to 18000]
-[05Jan2025 20:04:44.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Teleported HaruGlan to -500.5, 96.0, 54.5]
-[05Jan2025 20:04:49.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the weather to clear]
-[05Jan2025 20:04:54.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the time to 18000]
-[05Jan2025 20:07:29.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
-[05Jan2025 20:07:29.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
-[05Jan2025 20:07:29.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 20:07:34.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 20:07:35.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 20:07:35.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
-[05Jan2025 20:08:24.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the time to 18000]
-[05Jan2025 20:09:56.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the weather to clear]
-[05Jan2025 20:13:41.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Teleported HaruGlan to 250.5, 78.0, 684.5]
-[05Jan2025 20:14:19.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Teleported HaruGlan to -500.5, 96.0, 54.5]
-[05Jan2025 20:14:27.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Teleported HaruGlan to -500.5, 96.0, 54.5]
-[05Jan2025 20:14:31.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Teleported HaruGlan to 250.5, 78.0, 684.5]
-[05Jan2025 20:14:50.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Teleported HaruGlan to -500.5, 96.0, 54.5]
-[05Jan2025 20:15:09.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set the weather to clear]
-[05Jan2025 20:16:09.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Gave 128 [Mantle of Stars] to HaruGlan]
-[05Jan2025 20:16:25.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Creative Mode]
-[05Jan2025 20:16:36.808] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2c0ea655
-[05Jan2025 20:16:36.819] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Luismt150[/127.27.20.141:33139] logged in with entity id 6316 at (-50.873497939235484, 63.0, -3.430176220431116)
-[05Jan2025 20:16:36.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 joined the game
-[05Jan2025 20:16:37.678] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Luismt150 (18)
-[05Jan2025 20:16:37.679] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Luismt150
-[05Jan2025 20:16:41.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Survival Mode]
-[05Jan2025 20:16:42.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 98144b4f-a83b-3243-8a17-0cfafd4b2524
-[05Jan2025 20:16:43.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 98144b4f-a83b-3243-8a17-0cfafd4b2524
-[05Jan2025 20:16:43.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Luismt150 (98144b4f-a83b-3243-8a17-0cfafd4b2524) successfully connected to voice chat
-[05Jan2025 20:16:48.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Gave 1 [Marble Arch] to HaruGlan]
-[05Jan2025 20:16:58.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
-[05Jan2025 20:16:58.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
-[05Jan2025 20:16:58.023] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 20:16:58.790] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 20:16:59.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 20:16:59.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
-[05Jan2025 20:17:02.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Gave 1 [Chiseled Marble] to HaruGlan]
-[05Jan2025 20:17:04.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Gave 1 [Chiseled Marble] to HaruGlan]
-[05Jan2025 20:17:09.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Gave 1 [Marble] to HaruGlan]
-[05Jan2025 20:17:15.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Gave 128 [Marble] to HaruGlan]
-[05Jan2025 20:17:25.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
-[05Jan2025 20:17:25.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
-[05Jan2025 20:17:25.208] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 20:17:25.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 20:17:26.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
-[05Jan2025 20:17:26.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
-[05Jan2025 20:18:10.970] [Worker-Main-5/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID baf9c9c4-359f-4437-b75e-76c1ae034238
-[05Jan2025 20:18:10.976] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
-net.minecraft.crash.ReportedException: Exception generating new chunk
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:855) ~[?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-Caused by: java.util.ConcurrentModificationException
-	at java.util.HashMap.computeIfAbsent(HashMap.java:1135) ~[?:?]
-	at net.minecraft.world.gen.feature.template.TemplateManager.func_200219_b(SourceFile:64) ~[?:?]
-	at net.minecraft.world.gen.feature.template.TemplateManager.func_200220_a(SourceFile:54) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at net.minecraft.world.gen.feature.jigsaw.SingleJigsawPiece.func_236843_a_(SingleJigsawPiece.java:71) ~[?:?]
-	at net.minecraft.world.gen.feature.jigsaw.SingleJigsawPiece.func_214852_a(SingleJigsawPiece.java:99) ~[?:?]
-	at net.minecraft.world.gen.feature.jigsaw.JigsawManager.func_242837_a(SourceFile:267) ~[?:?]
-	at net.minecraft.world.gen.feature.structure.JigsawStructure$Start.func_230364_a_(SourceFile:47) ~[?:?]
-	at net.minecraft.world.gen.feature.structure.JigsawStructure$Start.func_230364_a_(SourceFile:33) ~[?:?]
-	at net.minecraft.world.gen.feature.structure.Structure.func_242785_a(Structure.java:224) ~[?:?]
-	at net.minecraft.world.gen.feature.StructureFeature.func_242771_a(SourceFile:35) ~[?:?]
-	at net.minecraft.world.gen.ChunkGenerator.func_242705_a(SourceFile:278) ~[?:?]
-	at net.minecraft.world.gen.ChunkGenerator.func_242707_a(SourceFile:267) ~[?:?]
-	at net.minecraft.world.chunk.ChunkStatus.func_222586_d(ChunkStatus.java:41) ~[?:?]
-	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
-	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
-	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
-	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
-	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?]
-[05Jan2025 20:18:10.982] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/Tu_mamita/servidor_minecraft/./crash-reports/crash-2025-01-05_20.18.10-server.txt
-[05Jan2025 20:18:10.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[05Jan2025 20:18:10.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[05Jan2025 20:18:11.009] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 lost connection: Disconnected
-[05Jan2025 20:18:11.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 left the game
-[05Jan2025 20:18:11.010] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
-[05Jan2025 20:18:11.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[05Jan2025 20:18:11.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05Jan2025 20:18:12.119] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05Jan2025 20:18:12.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05Jan2025 20:18:12.160] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
-java.util.concurrent.CompletionException: net.minecraft.crash.ReportedException: Exception generating new chunk
-	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
-	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1081) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
-	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
-	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
-	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
-	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?]
-Caused by: net.minecraft.crash.ReportedException: Exception generating new chunk
-	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:535) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
-	... 11 more
-Caused by: java.util.ConcurrentModificationException
-	at java.util.HashMap.computeIfAbsent(HashMap.java:1135) ~[?:?]
-	at net.minecraft.world.gen.feature.template.TemplateManager.func_200219_b(SourceFile:64) ~[?:?]
-	at net.minecraft.world.gen.feature.template.TemplateManager.func_200220_a(SourceFile:54) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at net.minecraft.world.gen.feature.jigsaw.SingleJigsawPiece.func_236843_a_(SingleJigsawPiece.java:71) ~[?:?]
-	at net.minecraft.world.gen.feature.jigsaw.SingleJigsawPiece.func_214852_a(SingleJigsawPiece.java:99) ~[?:?]
-	at net.minecraft.world.gen.feature.jigsaw.JigsawManager.func_242837_a(SourceFile:267) ~[?:?]
-	at net.minecraft.world.gen.feature.structure.JigsawStructure$Start.func_230364_a_(SourceFile:47) ~[?:?]
-	at net.minecraft.world.gen.feature.structure.JigsawStructure$Start.func_230364_a_(SourceFile:33) ~[?:?]
-	at net.minecraft.world.gen.feature.structure.Structure.func_242785_a(Structure.java:224) ~[?:?]
-	at net.minecraft.world.gen.feature.StructureFeature.func_242771_a(SourceFile:35) ~[?:?]
-	at net.minecraft.world.gen.ChunkGenerator.func_242705_a(SourceFile:278) ~[?:?]
-	at net.minecraft.world.gen.ChunkGenerator.func_242707_a(SourceFile:267) ~[?:?]
-	at net.minecraft.world.chunk.ChunkStatus.func_222586_d(ChunkStatus.java:41) ~[?:?]
-	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:524) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.lambda$scheduleChunkGeneration$20(ChunkManager.java:522) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) ~[?:?]
-	... 11 more
-[05Jan2025 20:18:21.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
-[05Jan2025 20:18:21.560] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
-[05Jan2025 20:18:21.560] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
-[05Jan2025 20:19:10.989] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: A single server tick took 60.00 seconds (should be max 0.05)
-[05Jan2025 20:19:10.990] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: Considering it to be crashed, server will forcibly shutdown.
-[05Jan2025 20:19:11.691] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 68b2e985-e30e-431d-a85d-6a597265ca50
-[05Jan2025 20:19:11.695] [Server Watchdog/INFO] [STDOUT/]: [net.minecraft.util.registry.Bootstrap:func_179870_a:123]: Crash report:
----- Minecraft Crash Report ----
-// I let you down. Sorry :(
-
-Time: 1/5/25, 8:19 PM
-Description: Watching Server
-
-java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.00 seconds (should be max 0.05)
-	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:43) [?:?] {re:classloading}
-	at java.lang.Thread.run(Thread.java:829) [?:?] {}
-
-
-A detailed walkthrough of the error, its code path and all known details is as follows:
----------------------------------------------------------------------------------------
-
--- Thread Dump --
-Details:
-	Threads: "Reference Handler" daemon prio=10 Id=2 RUNNABLE
-	at java.base@11.0.25/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
-	at java.base@11.0.25/java.lang.ref.Reference.processPendingReferences(Reference.java:241)
-	at java.base@11.0.25/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:213)
-
-
-"Finalizer" daemon prio=8 Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@e3cbdac
-	at java.base@11.0.25/java.lang.Object.wait(Native Method)
-	-  waiting on java.lang.ref.ReferenceQueue$Lock@e3cbdac
-	at java.base@11.0.25/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
-	at java.base@11.0.25/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
-	at java.base@11.0.25/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:170)
-
-
-"Signal Dispatcher" daemon prio=9 Id=4 RUNNABLE
-
-
-"Common-Cleaner" daemon prio=8 Id=10 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@fb521b
-	at java.base@11.0.25/java.lang.Object.wait(Native Method)
-	-  waiting on java.lang.ref.ReferenceQueue$Lock@fb521b
-	at java.base@11.0.25/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
-	at java.base@11.0.25/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:148)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-	at java.base@11.0.25/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:161)
-
-
-"ForkJoinPool.commonPool-worker-3" daemon prio=5 Id=18 WAITING on java.util.concurrent.ForkJoinPool@4c4d6dc
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@4c4d6dc
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Thread-0" daemon prio=5 Id=19 TIMED_WAITING
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:357)
-	at app//com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:190)
-
-
-"FileSystemWatchService" daemon prio=5 Id=20 RUNNABLE (in native)
-	at java.base@11.0.25/sun.nio.fs.LinuxWatchService.poll(Native Method)
-	at java.base@11.0.25/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:316)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Worker-Bootstrap-2" daemon prio=5 Id=23 WAITING on java.util.concurrent.ForkJoinPool@41c65820
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@41c65820
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Timer hack thread" daemon prio=5 Id=25 TIMED_WAITING
-	at java.base@11.0.25/java.lang.Thread.sleep(Native Method)
-	at net.minecraft.util.Util$6.run(Util.java:505)
-
-
-"modloading-worker-1" daemon prio=5 Id=26 WAITING on java.util.concurrent.ForkJoinPool@2a7c5c69
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@2a7c5c69
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Worker-Main-5" daemon prio=5 Id=31 WAITING on java.util.concurrent.ForkJoinPool@70cdb8b7
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@70cdb8b7
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"ConfigSaver" daemon prio=5 Id=32 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@529de244
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@529de244
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.25/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2081)
-	at java.base@11.0.25/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:433)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1054)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Snooper Timer" daemon prio=5 Id=43 WAITING on java.util.TaskQueue@21e9a76f
-	at java.base@11.0.25/java.lang.Object.wait(Native Method)
-	-  waiting on java.util.TaskQueue@21e9a76f
-	at java.base@11.0.25/java.lang.Object.wait(Object.java:328)
-	at java.base@11.0.25/java.util.TimerThread.mainLoop(Timer.java:527)
-	at java.base@11.0.25/java.util.TimerThread.run(Timer.java:506)
-
-
-"DestroyJavaVM" prio=5 Id=45 RUNNABLE
-
-
-"Server console handler" daemon prio=5 Id=46 RUNNABLE
-	at java.base@11.0.25/java.io.FileInputStream.read0(Native Method)
-	at java.base@11.0.25/java.io.FileInputStream.read(FileInputStream.java:231)
-	at app//org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
-	at app//org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
-	at app//org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
-	at app//org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
-	at app//org.jline.keymap.BindingReader.readCharacter(BindingReader.java:133)
-	at app//org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
-	...
-
-
-"ObjectCleanerThread" daemon prio=1 Id=47 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@69be382f
-	at java.base@11.0.25/java.lang.Object.wait(Native Method)
-	-  waiting on java.lang.ref.ReferenceQueue$Lock@69be382f
-	at java.base@11.0.25/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
-	at app//io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
-	at app//io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #0" daemon prio=5 Id=48 RUNNABLE (in native)
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"FileSystemWatchService" daemon prio=5 Id=49 RUNNABLE (in native)
-	at java.base@11.0.25/sun.nio.fs.LinuxWatchService.poll(Native Method)
-	at java.base@11.0.25/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:316)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Server Watchdog" daemon prio=5 Id=55 RUNNABLE
-	at java.management@11.0.25/sun.management.ThreadImpl.dumpThreads0(Native Method)
-	at java.management@11.0.25/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:528)
-	at java.management@11.0.25/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:516)
-	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:41)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"WorldCacheIOThread" daemon prio=5 Id=56 TIMED_WAITING on java.util.TaskQueue@742b3daf
-	at java.base@11.0.25/java.lang.Object.wait(Native Method)
-	-  waiting on java.util.TaskQueue@742b3daf
-	at java.base@11.0.25/java.util.TimerThread.mainLoop(Timer.java:553)
-	at java.base@11.0.25/java.util.TimerThread.run(Timer.java:506)
-
-
-"ResearchIOThread" daemon prio=5 Id=57 TIMED_WAITING on java.util.TaskQueue@49996eac
-	at java.base@11.0.25/java.lang.Object.wait(Native Method)
-	-  waiting on java.util.TaskQueue@49996eac
-	at java.base@11.0.25/java.util.TimerThread.mainLoop(Timer.java:553)
-	at java.base@11.0.25/java.util.TimerThread.run(Timer.java:506)
-
-
-"VoiceChatPacketProcessingThread" daemon prio=5 Id=59 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@25a77a2f
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@25a77a2f
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
-	at java.base@11.0.25/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2123)
-	at java.base@11.0.25/java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:458)
-	at de.maxhenkel.voicechat.voice.server.Server$ProcessThread.run(Server.java:234)
-
-
-"VoiceChatServerThread" daemon prio=5 Id=58 RUNNABLE (in native)
-	at java.base@11.0.25/java.net.PlainDatagramSocketImpl.receive0(Native Method)
-	-  locked java.net.PlainDatagramSocketImpl@3d4041f4
-	at java.base@11.0.25/java.net.AbstractPlainDatagramSocketImpl.receive(AbstractPlainDatagramSocketImpl.java:200)
-	-  locked java.net.PlainDatagramSocketImpl@3d4041f4
-	at java.base@11.0.25/java.net.DatagramSocket.receive(DatagramSocket.java:814)
-	-  locked java.net.DatagramPacket@102bd5b6
-	-  locked java.net.DatagramSocket@12c53511
-	at de.maxhenkel.voicechat.plugins.impl.VoicechatSocketBase.read(VoicechatSocketBase.java:13)
-	at de.maxhenkel.voicechat.plugins.impl.VoicechatSocketImpl.read(VoicechatSocketImpl.java:72)
-	at de.maxhenkel.voicechat.voice.server.Server.run(Server.java:112)
-
-
-"Netty Epoll Server IO #1" daemon prio=5 Id=60 RUNNABLE
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #2" daemon prio=5 Id=61 RUNNABLE
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #3" daemon prio=5 Id=62 RUNNABLE
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #4" daemon prio=5 Id=70 RUNNABLE (in native)
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #5" daemon prio=5 Id=71 RUNNABLE
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #6" daemon prio=5 Id=86 RUNNABLE (in native)
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #7" daemon prio=5 Id=87 RUNNABLE
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Worker-Main-31" daemon prio=5 Id=91 TIMED_WAITING on java.util.concurrent.ForkJoinPool@70cdb8b7
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@70cdb8b7
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:275)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1619)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Worker-Main-30" daemon prio=5 Id=92 TIMED_WAITING on java.util.concurrent.ForkJoinPool@70cdb8b7
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@70cdb8b7
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:275)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1619)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Tombstone Backup Thread" prio=5 Id=114 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@cad4364
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@cad4364
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.25/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2081)
-	at java.base@11.0.25/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:433)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1054)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"IO-Worker-67" prio=5 Id=129 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@335dece4
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@335dece4
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	...
-
-
-"IO-Worker-69" prio=5 Id=131 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@335dece4
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@335dece4
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	...
-
-
-"IO-Worker-71" prio=5 Id=133 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@335dece4
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@335dece4
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	...
-
-
-"IO-Worker-70" prio=5 Id=132 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@335dece4
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@335dece4
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	...
-
-
-"IO-Worker-72" prio=5 Id=134 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@335dece4
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@335dece4
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	...
-
-
-
-
--- Performance stats --
-Details:
-	Random tick rate: 3
-	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 1, entities: 348 [minecraft:cow:36,minecraft:sheep:35,minecraft:pig:33,minecraft:item:33,minecraft:wolf:30], block_entities: 77 [minecraft:chest:42,minecraft:mob_spawner:23,minecraft:furnace:6,minecraft:beehive:2,astralsorcery:altar:1], block_ticks: 0, fluid_ticks: 7, chunk_source: ServerChunkCache: 3841,
-ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 72 [minecraft:magma_cube:48,minecraft:strider:16,minecraft:skeleton:7,minecraft:enderman:1], block_entities: 1 [minecraft:chest:1], block_ticks: 0, fluid_ticks: 216, chunk_source: ServerChunkCache: 1320,
-ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0
-Stacktrace:
-	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:43) [?:?] {re:classloading}
-	at java.lang.Thread.run(Thread.java:829) [?:?] {}
-
-
--- System Details --
-Details:
-	Minecraft Version: 1.16.5
-	Minecraft Version ID: 1.16.5
-	Operating System: Linux (amd64) version 6.5.0-1025-azure
-	Java Version: 11.0.25, Ubuntu
-	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
-	Memory: 3670804456 bytes (3500 MB) / 6576668672 bytes (6272 MB) up to 17179869184 bytes (16384 MB)
-	CPUs: 4
-	JVM Flags: 2 total; -Xms2G -Xmx16G
-	ModLauncher: 8.1.3+8.1.3+main-8.1.x.c94d18ec
-	ModLauncher launch target: fmlserver
-	ModLauncher naming: srg
-	ModLauncher services: 
-		/mixin-0.8.4.jar mixin PLUGINSERVICE 
-		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
-		/forge.jar object_holder_definalize PLUGINSERVICE 
-		/forge.jar runtime_enum_extender PLUGINSERVICE 
-		/forge.jar capability_inject_definalize PLUGINSERVICE 
-		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
-		/forge.jar runtimedistcleaner PLUGINSERVICE 
-		/mixin-0.8.4.jar mixin TRANSFORMATIONSERVICE 
-		/forge.jar fml TRANSFORMATIONSERVICE 
-	FML: 36.2
-	Forge: net.minecraftforge:36.2.42
-	FML Language Providers: 
-		javafml@36.2
-		minecraft@1
-	Mod List: 
-		forge-1.16.5-36.2.42-server.jar                   |Minecraft                     |minecraft                     |1.16.5              |DONE      |Manifest: NOSIGNATURE
-		mcw-bridges-3.0.1-mc1.16.5forge.jar               |Macaw's Bridges               |mcwbridges                    |3.0.1               |DONE      |Manifest: NOSIGNATURE
-		voicechat-forge-1.16.5-2.5.27.jar                 |Simple Voice Chat             |voicechat                     |1.16.5-2.5.27       |DONE      |Manifest: NOSIGNATURE
-		tombstone-1.16.5-6.9.6.jar                        |Corail Tombstone              |tombstone                     |6.9.6               |DONE      |Manifest: NOSIGNATURE
-		astralsorcery-1.16.5-1.14.1.jar                   |Astral Sorcery                |astralsorcery                 |1.16.4-1.14.1       |DONE      |Manifest: 45:2b:0a:49:6b:65:3b:39:a9:dd:d2:5b:55:7f:82:47:a5:1d:7a:cc:7f:a8:69:73:72:53:6f:57:4d:b2:1a:b7
-		mcw-roofs-2.3.1-mc1.16.5forge.jar                 |Macaw's Roofs                 |mcwroofs                      |2.3.1               |DONE      |Manifest: NOSIGNATURE
-		mcw-doors-1.1.1forge-mc1.16.5.jar                 |Macaw's Doors                 |mcwdoors                      |1.1.1               |DONE      |Manifest: NOSIGNATURE
-		CreativeCore_v2.2.1_mc1.16.5.jar                  |CreativeCore                  |creativecore                  |2.0.0               |DONE      |Manifest: NOSIGNATURE
-		observerlib-1.16.5-1.5.3.jar                      |ObserverLib                   |observerlib                   |1.16.5-1.5.3        |DONE      |Manifest: NOSIGNATURE
-		mcw-furniture-3.3.0-mc1.16.5forge.jar             |Macaw's Furniture             |mcwfurnitures                 |3.3.0               |DONE      |Manifest: NOSIGNATURE
-		forge-1.16.5-36.2.42-universal.jar                |Forge                         |forge                         |36.2.42             |DONE      |Manifest: 22:af:21:d8:19:82:7f:93:94:fe:2b:ac:b7:e4:41:57:68:39:87:b1:a7:5c:c6:44:f9:25:74:21:14:f5:0d:90
-		curios-forge-1.16.5-4.1.0.0.jar                   |Curios API                    |curios                        |1.16.5-4.1.0.0      |DONE      |Manifest: NOSIGNATURE
-		DynamicTrees-1.16.5-0.10.5.jar                    |Dynamic Trees                 |dynamictrees                  |1.16.5-0.10.5       |DONE      |Manifest: NOSIGNATURE
-		PlayerRevive_v2.0.0-pre04_mc1.16.5.jar            |PlayerRevive                  |playerrevive                  |2.0.0               |DONE      |Manifest: NOSIGNATURE
-		[1.16.5] SecurityCraft v1.9.12.jar                |SecurityCraft                 |securitycraft                 |v1.9.12             |DONE      |Manifest: NOSIGNATURE
-	Crash Report UUID: 68b2e985-e30e-431d-a85d-6a597265ca50
-	Player Count: 1 / 20; [ServerPlayerEntity['HaruGlan'/1244, l='ServerLevel[world]', x=-499.82, y=95.00, z=56.56]]
-	Data Packs: vanilla, mod:forge, mod:mcwbridges, mod:mcwdoors, mod:voicechat, mod:tombstone, mod:astralsorcery, mod:mcwroofs, mod:creativecore, mod:observerlib, mod:mcwfurnitures, mod:curios, mod:dynamictrees, mod:playerrevive, mod:securitycraft
-	Is Modded: Definitely; Server brand changed to 'forge'
-	Type: Dedicated Server (map_server.txt)
-[05Jan2025 20:19:11.697] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerHangWatchdog/]: This crash report has been saved to: /workspaces/Tu_mamita/servidor_minecraft/./crash-reports/crash-2025-01-05_20.19.11-server.txt
+[05Jan2025 21:35:34.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[05Jan2025 21:35:34.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
+[05Jan2025 21:35:34.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
+[05Jan2025 21:35:34.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.1 Target: null
+[05Jan2025 21:35:34.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[05Jan2025 21:35:34.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
+[05Jan2025 21:35:34.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[05Jan2025 21:35:34.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[05Jan2025 21:35:34.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Jan2025 21:35:34.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[05Jan2025 21:35:34.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[05Jan2025 21:35:34.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: UP_TO_DATE Current: 1.16.5-0.10.5 Target: null
+[05Jan2025 21:35:34.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[05Jan2025 21:35:34.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12 Target: null
+[05Jan2025 21:35:40.860] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Jan2025 21:35:41.570] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05Jan2025 21:35:41.572] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05Jan2025 21:35:41.573] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05Jan2025 21:35:41.582] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05Jan2025 21:35:41.584] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05Jan2025 21:35:41.585] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05Jan2025 21:35:41.604] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, mcw-bridges-3.0.1-mc1.16.5forge.jar, mcw-doors-1.1.1forge-mc1.16.5.jar, voicechat-forge-1.16.5-2.5.27.jar, tombstone-1.16.5-6.9.6.jar, astralsorcery-1.16.5-1.14.1.jar, mcw-roofs-2.3.1-mc1.16.5forge.jar, CreativeCore_v2.2.1_mc1.16.5.jar, observerlib-1.16.5-1.5.3.jar, mcw-furniture-3.3.0-mc1.16.5forge.jar, curios-forge-1.16.5-4.1.0.0.jar, DynamicTrees-1.16.5-0.10.5.jar, PlayerRevive_v2.0.0-pre04_mc1.16.5.jar, [1.16.5] SecurityCraft v1.9.12.jar
+[05Jan2025 21:35:43.257] [Worker-Main-6/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load block tag minecraft:combination_step_sound_blocks as it is missing following references: #minecraft:wool_carpets (from Default),minecraft:moss_carpet (from Default),#minecraft:wool_carpets (from mcw-bridges-3.0.1-mc1.16.5forge.jar),minecraft:moss_carpet (from mcw-bridges-3.0.1-mc1.16.5forge.jar)
+[05Jan2025 21:35:43.448] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 12 recipes
+[05Jan2025 21:35:43.489] [Worker-Main-6/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on assets/astralsorcery/astralsorcery.mixins.json:MixinItemPredicate::handler$zbo000$enhanceEnchantmentList exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[05Jan2025 21:35:44.747] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1857 advancements
+[05Jan2025 21:35:45.100] [Worker-Main-6/INFO] [Astral Sorcery/]: Built PerkTree with 417 perks!
+[05Jan2025 21:35:51.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[05Jan2025 21:35:51.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Jan2025 21:35:51.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Jan2025 21:35:51.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Jan2025 21:35:52.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Jan2025 21:35:52.084] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[05Jan2025 21:35:52.168] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Jan2025 21:35:52.169] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Jan2025 21:35:52.169] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Jan2025 21:35:52.170] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Jan2025 21:35:52.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Jan2025 21:35:53.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Jan2025 21:35:54.746] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05Jan2025 21:35:54.752] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05Jan2025 21:35:54.753] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05Jan2025 21:35:54.753] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05Jan2025 21:35:55.167] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05Jan2025 21:35:58.940] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05Jan2025 21:35:58.940] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05Jan2025 21:35:58.941] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05Jan2025 21:35:58.952] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05Jan2025 21:35:58.953] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05Jan2025 21:35:58.954] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05Jan2025 21:35:58.957] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05Jan2025 21:35:59.115] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05Jan2025 21:35:59.679] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[05Jan2025 21:36:00.098] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[05Jan2025 21:36:00.604] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[05Jan2025 21:36:00.964] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 7867 ms
+[05Jan2025 21:36:00.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.780s)! For help, type "help"
+[05Jan2025 21:36:01.148] [Server thread/INFO] [Astral Sorcery/]: Loaded PerkTree!
+[05Jan2025 21:36:01.150] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[05Jan2025 21:36:01.187] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'supplies-euro.gl.at.ply.gg:3725'
+[05Jan2025 21:36:01.194] [Server thread/INFO] [ObserverLib/]: Load CachedWorldData 'lightnetwork' for world minecraft:overworld
+[05Jan2025 21:36:01.194] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 3725
+[05Jan2025 21:36:01.231] [Server thread/INFO] [ObserverLib/]: Loading of 'lightnetwork' for world minecraft:overworld finished.
+[05Jan2025 21:36:07.859] [Server thread/INFO] [ObserverLib/]: Load CachedWorldData 'structure_buffer' for world minecraft:overworld
+[05Jan2025 21:36:07.860] [Server thread/INFO] [ObserverLib/]: Loading of 'structure_buffer' for world minecraft:overworld finished.
+[05Jan2025 21:37:08.914] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@202b0e24
+[05Jan2025 21:37:08.950] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:51105] logged in with entity id 332 at (-513.6984093538103, 141.0, 59.10232594480512)
+[05Jan2025 21:37:08.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[05Jan2025 21:37:15.174] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[05Jan2025 21:37:15.176] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 21:37:34.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:37:35.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:37:35.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[05Jan2025 21:38:04.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 21:38:04.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 21:38:04.972] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 21:38:05.301] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:38:06.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:38:06.301] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[05Jan2025 21:38:10.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Creative Mode]
+[05Jan2025 21:38:33.123] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 21:38:33.123] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 21:38:33.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 21:38:33.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:38:34.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:38:34.428] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[05Jan2025 21:39:01.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 21:39:01.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 21:39:01.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 21:39:01.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:39:02.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:39:02.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[05Jan2025 21:39:24.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaruGlan: Set own game mode to Survival Mode]
+[05Jan2025 21:39:29.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 21:39:29.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 21:39:29.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 21:39:29.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:39:30.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:39:30.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[05Jan2025 21:39:53.161] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6b6ee707
+[05Jan2025 21:39:53.176] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Luismt150[/127.27.20.141:39629] logged in with entity id 861 at (-21.074650731764823, 54.0, 139.69999998807907)
+[05Jan2025 21:39:53.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 joined the game
+[05Jan2025 21:39:53.476] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Luismt150 (18)
+[05Jan2025 21:39:53.478] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Luismt150
+[05Jan2025 21:39:55.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 98144b4f-a83b-3243-8a17-0cfafd4b2524
+[05Jan2025 21:39:56.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 98144b4f-a83b-3243-8a17-0cfafd4b2524
+[05Jan2025 21:39:56.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Luismt150 (98144b4f-a83b-3243-8a17-0cfafd4b2524) successfully connected to voice chat
+[05Jan2025 21:39:57.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 21:39:57.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 21:39:57.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 21:39:58.231] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:39:59.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 21:39:59.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[05Jan2025 21:40:42.020] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 21:40:42.020] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 21:40:42.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 21:40:54.798] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
+[05Jan2025 21:40:54.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[05Jan2025 21:40:54.802] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[05Jan2025 21:40:54.851] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[05Jan2025 21:44:28.602] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@41306f9e
+[05Jan2025 21:44:28.613] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: HaruGlan[/127.201.211.232:55183] logged in with entity id 1645 at (-513.2588470509947, 141.0, 60.26489403079488)
+[05Jan2025 21:44:28.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan joined the game
+[05Jan2025 21:44:29.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HaruGlan (18)
+[05Jan2025 21:44:29.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 21:44:58.748] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
+[05Jan2025 21:44:58.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[05Jan2025 21:44:58.749] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
