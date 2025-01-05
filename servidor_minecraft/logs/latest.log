@@ -602,3 +602,31 @@ java.lang.NullPointerException: null
 [05Jan2025 04:56:41.884] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
 [05Jan2025 04:56:41.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
 [05Jan2025 04:56:41.885] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[05Jan2025 04:58:05.087] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@129091a9
+[05Jan2025 04:58:05.097] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: CataLaGata[/127.190.152.39:50547] logged in with entity id 12950 at (-64.63088625283552, 63.0, -44.29701850040673)
+[05Jan2025 04:58:05.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CataLaGata joined the game
+[05Jan2025 04:58:05.399] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CataLaGata (18)
+[05Jan2025 04:58:05.399] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CataLaGata
+[05Jan2025 04:58:06.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy has made the advancement [Knowledge of Death]
+[05Jan2025 04:58:06.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy has made the advancement [Easter Food]
+[05Jan2025 04:58:07.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24ca61cf-d723-3a62-91e9-9a44fb6fb86c
+[05Jan2025 04:58:08.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24ca61cf-d723-3a62-91e9-9a44fb6fb86c
+[05Jan2025 04:58:08.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CataLaGata (24ca61cf-d723-3a62-91e9-9a44fb6fb86c) successfully connected to voice chat
+[05Jan2025 04:58:10.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sofix_pro17 has made the advancement [Knowledge of Death]
+[05Jan2025 04:58:10.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sofix_pro17 has made the advancement [Easter Food]
+[05Jan2025 04:58:43.685] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@65341729
+[05Jan2025 04:58:43.694] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Joaco_Owsla[/127.13.152.52:60903] logged in with entity id 13047 at (-40.018420696611294, 78.0, -54.49256086108745)
+[05Jan2025 04:58:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Joaco_Owsla joined the game
+[05Jan2025 04:58:44.903] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Joaco_Owsla (18)
+[05Jan2025 04:58:44.904] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Joaco_Owsla
+[05Jan2025 04:58:49.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8ed2f149-c7cb-3357-ac6e-369d5184ad58
+[05Jan2025 04:58:50.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8ed2f149-c7cb-3357-ac6e-369d5184ad58
+[05Jan2025 04:58:50.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Joaco_Owsla (8ed2f149-c7cb-3357-ac6e-369d5184ad58) successfully connected to voice chat
+[05Jan2025 05:01:32.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 is bleeding...
+[05Jan2025 05:01:32.797] [Server thread/WARN] [tombstone/]: The death event of the player Iron_Girl_03 was canceled by another mod
+[05Jan2025 05:01:32.804] [Server thread/INFO] [tombstone/]: The player Iron_Girl_03 has successfully been saved
+[05Jan2025 05:04:08.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CataLaGata has made the advancement [Knowledge of Death]
+[05Jan2025 05:04:08.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CataLaGata has made the advancement [Easter Food]
+[05Jan2025 05:05:55.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Joaco_Owsla has made the advancement [Acquire Hardware]
+[05Jan2025 05:06:33.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Joaco_Owsla has made the advancement [Knowledge of Death]
+[05Jan2025 05:06:33.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Joaco_Owsla has made the advancement [Easter Food]
