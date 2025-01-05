@@ -2746,3 +2746,49 @@ java.lang.NullPointerException: null
 [05Jan2025 22:05:09.108] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of HaruGlan to connected: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=04481dc8-3b9d-43ca-81e8-6772690f8279}
 [05Jan2025 22:05:09.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
 [05Jan2025 22:05:09.241] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=04481dc8-3b9d-43ca-81e8-6772690f8279}
+[05Jan2025 22:05:35.046] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=04481dc8-3b9d-43ca-81e8-6772690f8279}
+[05Jan2025 22:05:35.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 22:05:35.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 22:05:35.993] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to HaruGlan
+[05Jan2025 22:05:35.993] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with HaruGlan
+[05Jan2025 22:05:35.993] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with HaruGlan
+[05Jan2025 22:05:35.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 22:05:35.993] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 to disconnected: {disabled=false, disconnected=true, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=04481dc8-3b9d-43ca-81e8-6772690f8279}
+[05Jan2025 22:05:36.431] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 22:05:37.432] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0
+[05Jan2025 22:05:37.432] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of HaruGlan to connected: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=04481dc8-3b9d-43ca-81e8-6772690f8279}
+[05Jan2025 22:05:37.432] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0) successfully connected to voice chat
+[05Jan2025 22:05:37.562] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of HaruGlan: {disabled=false, disconnected=false, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=04481dc8-3b9d-43ca-81e8-6772690f8279}
+[05Jan2025 22:06:01.783] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jan2025 22:06:01.788] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jan2025 22:06:04.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 timed out
+[05Jan2025 22:06:04.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HaruGlan
+[05Jan2025 22:06:04.143] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to HaruGlan
+[05Jan2025 22:06:04.143] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with HaruGlan
+[05Jan2025 22:06:04.143] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with HaruGlan
+[05Jan2025 22:06:04.144] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HaruGlan
+[05Jan2025 22:06:04.144] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 310c50d7-50fc-3898-ba4c-18b3f3ae1ea0 to disconnected: {disabled=false, disconnected=true, uuid=310c50d7-50fc-3898-ba4c-18b3f3ae1ea0, name=HaruGlan, group=04481dc8-3b9d-43ca-81e8-6772690f8279}
+[05Jan2025 22:06:19.490] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: HaruGlan lost connection: Timed out
+[05Jan2025 22:06:19.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaruGlan left the game
+[05Jan2025 22:06:19.491] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of HaruGlan
+[05Jan2025 22:06:19.492] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
+[05Jan2025 22:08:33.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[05Jan2025 22:08:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Jan2025 22:08:33.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Jan2025 22:08:33.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Jan2025 22:08:33.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Jan2025 22:08:33.463] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Jan2025 22:08:33.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Jan2025 22:08:33.465] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Jan2025 22:08:33.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Jan2025 22:08:33.466] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Jan2025 22:08:33.467] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jan2025 22:08:33.472] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jan2025 22:08:33.489] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Jan2025 22:08:33.501] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Jan2025 22:08:33.505] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Jan2025 22:08:33.507] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[05Jan2025 22:08:33.507] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[05Jan2025 22:08:33.508] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file forge-server.toml changed, sending notifies
+[05Jan2025 22:08:33.508] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Forge config just got changed on the file system!
+[05Jan2025 22:08:33.510] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies
