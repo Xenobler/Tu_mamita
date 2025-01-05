@@ -1025,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-05 06:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-05 04:47:15 +0000"
@@ -1603,6 +1609,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-01-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:find_constellation": {
+    "criteria": {
+      "any_constellation_discovered": "2025-01-05 06:21:30 +0000"
     },
     "done": true
   },
@@ -2273,6 +2285,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-02 23:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-05 06:25:43 +0000"
     },
     "done": true
   },
