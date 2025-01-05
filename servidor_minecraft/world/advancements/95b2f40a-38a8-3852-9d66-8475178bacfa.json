@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-05 05:07:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
@@ -113,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-05 05:07:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
@@ -128,6 +140,12 @@
   "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-01-05 05:07:35 +0000"
     },
     "done": true
   },
@@ -191,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-05 05:07:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-01-05 04:41:00 +0000"
@@ -224,6 +248,12 @@
   "mcwroofs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-01-05 05:07:35 +0000"
     },
     "done": true
   },
@@ -743,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-05 05:07:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/sandstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
@@ -812,6 +848,12 @@
   "mcwbridges:recipes/granite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-05 05:07:35 +0000"
     },
     "done": true
   },
@@ -962,6 +1004,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-01-05 04:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-05 05:07:35 +0000"
     },
     "done": true
   },
@@ -1145,6 +1193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-05 05:08:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-01-05 04:41:00 +0000"
@@ -1220,6 +1274,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-01-05 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-05 05:07:35 +0000"
     },
     "done": true
   },
@@ -1388,6 +1448,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-01-05 04:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-05 05:07:35 +0000"
     },
     "done": true
   },
@@ -1563,6 +1629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-01-05 05:07:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
@@ -1710,6 +1782,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-05 04:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-05 05:07:35 +0000"
     },
     "done": true
   },

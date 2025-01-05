@@ -1,4 +1,10 @@
 {
+  "securitycraft:recipes/securitycraft/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-31 23:08:06 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-02 00:37:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -233,6 +245,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-01-05 04:29:45 +0000"
@@ -353,9 +371,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/security_camera": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -530,6 +560,12 @@
   "mcwbridges:recipes/blackstone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/storage_module": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -955,9 +991,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 22:47:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -1147,15 +1195,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-01-01 22:35:55 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-01 23:27:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -1218,6 +1284,12 @@
   "mcwbridges:recipes/dark_oak_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -1449,6 +1521,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:45 +0000"
@@ -1581,6 +1659,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/track_mine": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-02 00:37:02 +0000"
@@ -1629,15 +1713,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-02 00:06:24 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_acacia_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/harming_module": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -1750,6 +1852,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-01-02 22:25:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -1933,6 +2041,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 05:04:08 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:45 +0000"
@@ -2089,6 +2203,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 05:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-31 22:57:32 +0000"
@@ -2161,6 +2281,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-01 22:41:01 +0000"
@@ -2182,6 +2314,12 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -2269,9 +2407,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-01-05 05:09:29 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-01-05 04:29:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -2290,6 +2446,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-01-01 22:54:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -2428,6 +2590,12 @@
   "mcwbridges:recipes/end_stone_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/floor_trap": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
@@ -2641,6 +2809,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:45 +0000"
@@ -2731,6 +2905,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-31 22:56:01 +0000"
@@ -2788,6 +2968,12 @@
   "mcwbridges:recipes/prismarine_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-01-05 05:06:33 +0000"
     },
     "done": true
   },
