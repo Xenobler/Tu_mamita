@@ -2347,3 +2347,9 @@ java.lang.NullPointerException: null
 [05Jan2025 19:31:16.425] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of HaruGlan
 [05Jan2025 19:31:16.425] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HaruGlan
 [05Jan2025 19:31:16.497] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[05Jan2025 19:36:15.775] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jan2025 19:36:15.785] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jan2025 19:37:11.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 1000
+[05Jan2025 19:37:17.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the weather to clear
+[05Jan2025 19:41:15.773] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jan2025 19:41:15.779] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
