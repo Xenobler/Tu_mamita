@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 04:43:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-01-05 04:30:59 +0000"
@@ -485,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 04:43:52 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/acacia_planks": {
     "criteria": {
       "has_planks": "2025-01-05 04:27:51 +0000"
@@ -500,6 +512,12 @@
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-01-05 04:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 04:43:52 +0000"
     },
     "done": true
   },
@@ -656,6 +674,12 @@
   "mcwfurnitures:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-01-05 04:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 04:43:52 +0000"
     },
     "done": true
   },
@@ -1177,8 +1201,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-01-05 04:44:45 +0000",
+      "minecraft:mountains": "2025-01-05 04:45:00 +0000",
       "minecraft:taiga": "2025-01-05 04:38:58 +0000",
-      "minecraft:taiga_hills": "2025-01-05 04:27:51 +0000"
+      "minecraft:taiga_hills": "2025-01-05 04:27:51 +0000",
+      "minecraft:river": "2025-01-05 04:44:44 +0000"
     },
     "done": false
   },
@@ -1290,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 04:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-05 04:32:25 +0000"
@@ -1311,6 +1344,12 @@
   "mcwbridges:recipes/prismarine_bricks_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-05 04:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 04:43:52 +0000"
     },
     "done": true
   },
