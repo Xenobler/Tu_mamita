@@ -56,16 +56,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "risk-handbook.gl.at.ply.gg",
+          "assigned_domain": "supplies-euro.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "1038d5e9-29ff-4e51-91a2-645037d358ec",
+          "id": "474982a1-bbcd-4b71-9691-1fc384054ecd",
           "ip_hostname": "24.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 3710,
-          "port_start": 3709,
+          "port_end": 3726,
+          "port_start": 3725,
           "region": "global",
           "static_ip4": "147.185.221.24",
           "static_ip6": "2602:fbaf:0:1::18",
@@ -73,19 +73,19 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-01-03T18:38:41.774340Z",
+      "created_at": "2025-01-03T21:22:21.871412Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "b517311d-6200-4979-86d7-8b50507775e4",
+      "id": "ab8adf37-7dd9-4825-bb7e-3eeec03bc932",
       "name": "unnamed",
       "origin": {
         "data": {
           "agent_id": "288ef19c-0904-47e8-bfa3-23ac53e2d6cb",
           "agent_name": "from-key-758a",
           "local_ip": "127.0.0.1",
-          "local_port": 3709
+          "local_port": 3725
         },
         "type": "agent"
       },
