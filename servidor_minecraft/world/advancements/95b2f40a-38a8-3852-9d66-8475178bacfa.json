@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-01-05 05:34:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-05 05:13:59 +0000"
@@ -416,6 +422,12 @@
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-01-05 04:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-05 05:29:37 +0000"
     },
     "done": true
   },
@@ -2277,6 +2289,12 @@
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-01-05 05:34:58 +0000"
     },
     "done": true
   },
