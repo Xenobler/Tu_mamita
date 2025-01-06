@@ -3894,3 +3894,7 @@ java.lang.NullPointerException: null
 [06Jan2025 04:26:33.790] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Luismt150
 [06Jan2025 04:26:33.790] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
 [06Jan2025 04:26:33.827] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 98144b4f-a83b-3243-8a17-0cfafd4b2524 does not have a secret
+[06Jan2025 04:30:03.551] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:30:03.557] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 04:35:03.693] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:35:03.700] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

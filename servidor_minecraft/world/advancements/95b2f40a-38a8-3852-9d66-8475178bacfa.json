@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-06 04:29:38 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
@@ -362,6 +368,12 @@
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-06 04:29:38 +0000"
     },
     "done": true
   },
@@ -1241,9 +1253,11 @@
       "minecraft:forest": "2025-01-05 04:44:55 +0000",
       "minecraft:mountains": "2025-01-05 04:45:30 +0000",
       "minecraft:taiga": "2025-01-05 04:43:39 +0000",
+      "minecraft:giant_tree_taiga": "2025-01-06 04:29:26 +0000",
       "minecraft:taiga_hills": "2025-01-05 04:25:35 +0000",
       "minecraft:river": "2025-01-05 04:44:50 +0000",
       "minecraft:wooded_mountains": "2025-01-06 04:08:33 +0000",
+      "minecraft:giant_tree_taiga_hills": "2025-01-06 04:31:46 +0000",
       "minecraft:plains": "2025-01-05 05:19:34 +0000"
     },
     "done": false
@@ -1756,6 +1770,7 @@
     "criteria": {
       "cooked_mutton": "2025-01-05 05:23:25 +0000",
       "cooked_beef": "2025-01-05 04:58:06 +0000",
+      "bread": "2025-01-06 04:25:19 +0000",
       "cooked_chicken": "2025-01-05 05:23:36 +0000",
       "cooked_salmon": "2025-01-06 03:29:44 +0000"
     },
@@ -1869,6 +1884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-06 04:29:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
@@ -1896,6 +1917,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-05 05:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-06 04:29:38 +0000"
     },
     "done": true
   },
@@ -2265,6 +2292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-06 04:29:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-01-05 05:50:06 +0000"
@@ -2496,6 +2529,12 @@
   "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-06 04:29:38 +0000"
     },
     "done": true
   },
@@ -2946,6 +2985,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-05 05:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-06 04:29:38 +0000"
     },
     "done": true
   },
