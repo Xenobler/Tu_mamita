@@ -1080,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-06 03:51:44 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_prismarine_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:29:54 +0000"

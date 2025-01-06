@@ -182,3 +182,23 @@ java.lang.NullPointerException: null
 [06Jan2025 03:48:33.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 has reached the goal [Strong or Careful]
 [06Jan2025 03:48:33.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 fell from a high place
 [06Jan2025 03:48:33.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 has made the advancement [Your First Grave]
+[06Jan2025 03:49:04.742] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 was kicked for floating too long!
+[06Jan2025 03:49:04.791] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 lost connection: Flying is not enabled on this server
+[06Jan2025 03:49:04.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 left the game
+[06Jan2025 03:49:04.792] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
+[06Jan2025 03:49:14.153] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a1531c8
+[06Jan2025 03:49:14.167] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Luismt150[/127.27.20.141:38653] logged in with entity id 1837 at (-35.90102562306826, 58.28549238931871, 94.52908324127476)
+[06Jan2025 03:49:14.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 joined the game
+[06Jan2025 03:49:14.446] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Luismt150 (18)
+[06Jan2025 03:49:14.447] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Luismt150
+[06Jan2025 03:49:16.425] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 98144b4f-a83b-3243-8a17-0cfafd4b2524
+[06Jan2025 03:49:17.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 98144b4f-a83b-3243-8a17-0cfafd4b2524
+[06Jan2025 03:49:17.425] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Luismt150 (98144b4f-a83b-3243-8a17-0cfafd4b2524) successfully connected to voice chat
+[06Jan2025 03:58:56.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 is bleeding...
+[06Jan2025 03:58:56.401] [Server thread/WARN] [tombstone/]: The death event of the player Iron_Girl_03 was canceled by another mod
+[06Jan2025 03:58:56.415] [Server thread/INFO] [tombstone/]: The player Iron_Girl_03 has successfully been saved
+[06Jan2025 03:59:01.889] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Iron_Girl_03 was kicked for floating too long!
+[06Jan2025 03:59:01.940] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Iron_Girl_03 lost connection: Flying is not enabled on this server
+[06Jan2025 03:59:01.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 left the game
+[06Jan2025 03:59:01.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 blew up
+[06Jan2025 03:59:01.943] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Iron_Girl_03
