@@ -3873,3 +3873,10 @@ java.lang.NullPointerException: null
 [06Jan2025 04:08:55.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 is bleeding...
 [06Jan2025 04:08:55.982] [Server thread/WARN] [tombstone/]: The death event of the player Iron_Girl_03 was canceled by another mod
 [06Jan2025 04:08:55.991] [Server thread/INFO] [tombstone/]: The player Iron_Girl_03 has successfully been saved
+[06Jan2025 04:10:03.980] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:10:03.986] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 04:11:31.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 is bleeding...
+[06Jan2025 04:11:31.847] [Server thread/WARN] [tombstone/]: The death event of the player Iron_Girl_03 was canceled by another mod
+[06Jan2025 04:11:31.849] [Server thread/INFO] [tombstone/]: The player Iron_Girl_03 has successfully been saved
+[06Jan2025 04:15:03.680] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:15:03.686] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
