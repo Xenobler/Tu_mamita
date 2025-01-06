@@ -202,3 +202,40 @@ java.lang.NullPointerException: null
 [06Jan2025 03:59:01.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 left the game
 [06Jan2025 03:59:01.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 blew up
 [06Jan2025 03:59:01.943] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Iron_Girl_03
+[06Jan2025 03:59:26.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy has made the advancement [Isn't It Iron Pick]
+[06Jan2025 03:59:26.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy has made the advancement [Suit Up]
+[06Jan2025 03:59:39.845] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@490e3d4a
+[06Jan2025 03:59:39.854] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Iron_Girl_03[/127.156.116.57:58187] logged in with entity id 3534 at (-8.448390640343245, 64.06401749237776, -2.58414233588264)
+[06Jan2025 03:59:39.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 joined the game
+[06Jan2025 03:59:45.193] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Iron_Girl_03 (18)
+[06Jan2025 03:59:45.193] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Iron_Girl_03
+[06Jan2025 04:00:03.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cc033f0b-bd9f-3d23-9b36-47930a85b855
+[06Jan2025 04:00:04.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cc033f0b-bd9f-3d23-9b36-47930a85b855
+[06Jan2025 04:00:04.096] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Iron_Girl_03 (cc033f0b-bd9f-3d23-9b36-47930a85b855) successfully connected to voice chat
+[06Jan2025 04:00:24.231] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cc033f0b-bd9f-3d23-9b36-47930a85b855 timed out
+[06Jan2025 04:00:24.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Iron_Girl_03
+[06Jan2025 04:00:24.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Iron_Girl_03
+[06Jan2025 04:00:27.457] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cc033f0b-bd9f-3d23-9b36-47930a85b855
+[06Jan2025 04:00:28.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cc033f0b-bd9f-3d23-9b36-47930a85b855
+[06Jan2025 04:00:28.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Iron_Girl_03 (cc033f0b-bd9f-3d23-9b36-47930a85b855) successfully connected to voice chat
+[06Jan2025 04:00:32.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 has reached the goal [Easy Opening]
+[06Jan2025 04:01:56.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 1000
+[06Jan2025 04:03:29.177] [Worker-Main-5/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[06Jan2025 04:03:29.195] [Worker-Main-5/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[06Jan2025 04:03:33.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 is bleeding...
+[06Jan2025 04:03:33.480] [Server thread/WARN] [tombstone/]: The death event of the player Iron_Girl_03 was canceled by another mod
+[06Jan2025 04:03:33.489] [Server thread/INFO] [tombstone/]: The player Iron_Girl_03 has successfully been saved
+[06Jan2025 04:05:48.343] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Iron_Girl_03 lost connection: Disconnected
+[06Jan2025 04:05:48.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 left the game
+[06Jan2025 04:05:48.344] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Iron_Girl_03
+[06Jan2025 04:06:02.699] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ee8750b
+[06Jan2025 04:06:02.709] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Iron_Girl_03[/127.156.116.57:36531] logged in with entity id 4905 at (-39.092924893051986, 79.0, -57.22106422850487)
+[06Jan2025 04:06:02.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 joined the game
+[06Jan2025 04:06:04.149] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Iron_Girl_03 (18)
+[06Jan2025 04:06:04.150] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Iron_Girl_03
+[06Jan2025 04:06:18.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cc033f0b-bd9f-3d23-9b36-47930a85b855
+[06Jan2025 04:06:19.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cc033f0b-bd9f-3d23-9b36-47930a85b855
+[06Jan2025 04:06:19.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Iron_Girl_03 (cc033f0b-bd9f-3d23-9b36-47930a85b855) successfully connected to voice chat
+[06Jan2025 04:08:55.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 is bleeding...
+[06Jan2025 04:08:55.982] [Server thread/WARN] [tombstone/]: The death event of the player Iron_Girl_03 was canceled by another mod
+[06Jan2025 04:08:55.991] [Server thread/INFO] [tombstone/]: The player Iron_Girl_03 has successfully been saved
