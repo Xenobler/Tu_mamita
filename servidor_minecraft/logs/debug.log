@@ -3880,3 +3880,17 @@ java.lang.NullPointerException: null
 [06Jan2025 04:11:31.849] [Server thread/INFO] [tombstone/]: The player Iron_Girl_03 has successfully been saved
 [06Jan2025 04:15:03.680] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06Jan2025 04:15:03.686] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 04:20:03.426] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:20:03.432] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 04:25:03.407] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:25:03.413] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 04:25:14.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 1000
+[06Jan2025 04:26:14.338] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: CataLaGata lost connection: Disconnected
+[06Jan2025 04:26:14.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CataLaGata left the game
+[06Jan2025 04:26:14.339] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of CataLaGata
+[06Jan2025 04:26:14.339] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CataLaGata
+[06Jan2025 04:26:33.789] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 lost connection: Disconnected
+[06Jan2025 04:26:33.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 left the game
+[06Jan2025 04:26:33.790] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Luismt150
+[06Jan2025 04:26:33.790] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
+[06Jan2025 04:26:33.827] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 98144b4f-a83b-3243-8a17-0cfafd4b2524 does not have a secret
