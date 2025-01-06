@@ -1418,6 +1418,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-01-06 04:46:08 +0000"
+    },
+    "done": false
+  },
   "mcwdoors:recipes/bamboo": {
     "criteria": {
       "has_wood": "2025-01-05 04:25:35 +0000"
@@ -1589,6 +1595,12 @@
   "mcwbridges:recipes/brick_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-06 04:46:08 +0000"
     },
     "done": true
   },
@@ -2163,6 +2175,12 @@
   "mcwbridges:recipes/orange_sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-06 04:46:08 +0000"
     },
     "done": true
   },

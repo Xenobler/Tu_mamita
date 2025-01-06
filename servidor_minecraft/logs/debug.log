@@ -3898,3 +3898,16 @@ java.lang.NullPointerException: null
 [06Jan2025 04:30:03.557] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [06Jan2025 04:35:03.693] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06Jan2025 04:35:03.700] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 04:40:03.535] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:40:03.540] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 04:41:04.188] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: sofix_pro17 lost connection: Disconnected
+[06Jan2025 04:41:04.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sofix_pro17 left the game
+[06Jan2025 04:41:04.189] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of sofix_pro17
+[06Jan2025 04:41:04.189] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sofix_pro17
+[06Jan2025 04:45:03.363] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:45:03.368] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 04:46:08.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy has made the advancement [We Need to Go Deeper]
+[06Jan2025 04:49:15.937] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Chimmy lost connection: Disconnected
+[06Jan2025 04:49:15.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy left the game
+[06Jan2025 04:49:15.938] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Chimmy
+[06Jan2025 04:49:15.938] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chimmy

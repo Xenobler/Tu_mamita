@@ -249,3 +249,10 @@ java.lang.NullPointerException: null
 [06Jan2025 04:26:33.789] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Luismt150 lost connection: Disconnected
 [06Jan2025 04:26:33.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luismt150 left the game
 [06Jan2025 04:26:33.790] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luismt150
+[06Jan2025 04:41:04.188] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: sofix_pro17 lost connection: Disconnected
+[06Jan2025 04:41:04.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sofix_pro17 left the game
+[06Jan2025 04:41:04.189] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sofix_pro17
+[06Jan2025 04:46:08.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy has made the advancement [We Need to Go Deeper]
+[06Jan2025 04:49:15.937] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Chimmy lost connection: Disconnected
+[06Jan2025 04:49:15.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy left the game
+[06Jan2025 04:49:15.938] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chimmy
