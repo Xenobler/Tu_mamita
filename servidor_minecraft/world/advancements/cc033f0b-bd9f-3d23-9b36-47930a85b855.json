@@ -1338,15 +1338,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/speed_module": {
-    "criteria": {
-      "has_iron": "2025-01-05 06:23:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-05 06:08:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2025-01-05 06:23:50 +0000"
     },
     "done": true
   },
