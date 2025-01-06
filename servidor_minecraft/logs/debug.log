@@ -3911,3 +3911,18 @@ java.lang.NullPointerException: null
 [06Jan2025 04:49:15.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chimmy left the game
 [06Jan2025 04:49:15.938] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Chimmy
 [06Jan2025 04:49:15.938] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chimmy
+[06Jan2025 04:50:03.441] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:50:03.449] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 04:55:03.303] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:55:03.310] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 04:55:40.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cc033f0b-bd9f-3d23-9b36-47930a85b855 timed out
+[06Jan2025 04:55:40.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Iron_Girl_03
+[06Jan2025 04:55:40.318] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Iron_Girl_03
+[06Jan2025 04:55:40.318] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Iron_Girl_03
+[06Jan2025 04:55:40.318] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Iron_Girl_03
+[06Jan2025 04:55:40.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Iron_Girl_03
+[06Jan2025 04:55:40.318] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of cc033f0b-bd9f-3d23-9b36-47930a85b855 to disconnected: {disabled=true, disconnected=true, uuid=cc033f0b-bd9f-3d23-9b36-47930a85b855, name=Iron_Girl_03, group=null}
+[06Jan2025 04:55:52.835] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Iron_Girl_03 lost connection: Timed out
+[06Jan2025 04:55:52.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Iron_Girl_03 left the game
+[06Jan2025 04:55:52.836] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Iron_Girl_03
+[06Jan2025 04:55:52.836] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Iron_Girl_03
